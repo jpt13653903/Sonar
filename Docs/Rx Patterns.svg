@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135mm"
+   height="135mm"
+   viewBox="0 0 135 135"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Rx Patterns.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#808080"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4702524"
+     inkscape:cx="198.94543"
+     inkscape:cy="205.06683"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="15"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Linear 2D Array"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="path1"
+       cx="14.999999"
+       cy="15"
+       r="1.9999999" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle1"
+       cx="30.000002"
+       cy="15"
+       r="1.9999999" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle2"
+       cx="44.999996"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle3"
+       cx="120"
+       cy="15"
+       r="1.9999999" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle4"
+       cx="60"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle5"
+       cx="104.99999"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle6"
+       cx="75"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle7"
+       cx="89.999992"
+       cy="15"
+       r="1.9999999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Linear 3D Array"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle8"
+       cx="14.999999"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle9"
+       cx="30.000002"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle10"
+       cx="44.999996"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle11"
+       cx="14.999999"
+       cy="29.999998"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle12"
+       cx="30.000002"
+       cy="29.999998"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle13"
+       cx="44.999996"
+       cy="29.999998"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle14"
+       cx="14.999999"
+       cy="45"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#ffae00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle15"
+       cx="44.999996"
+       cy="45"
+       r="1.9999999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Sparse 3D Array"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="path1-1"
+       cx="14.999999"
+       cy="15"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16"
+       cx="60"
+       cy="14.999999"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle17"
+       cx="120"
+       cy="15"
+       r="1.9999999" />
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16-1"
+       cx="59.999996"
+       cy="-14.999999"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle17-6"
+       cx="120"
+       cy="-14.999999"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16-1-1"
+       cx="75"
+       cy="-75"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16-1-1-9"
+       cx="119.99999"
+       cy="-120"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#d1ff00;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16-1-1-9-2"
+       cx="45"
+       cy="-44.999996"
+       r="1.9999999"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Triangular Array"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16-1-1-9-2-1"
+       cx="14.999999"
+       cy="-14.999999"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16-1-1-9-2-1-2"
+       cx="29.999998"
+       cy="-30.000002"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle18"
+       cx="15"
+       cy="-44.999996"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle19"
+       cx="30"
+       cy="-60"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle20"
+       cx="15"
+       cy="-75"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle21"
+       cx="30"
+       cy="-89.999992"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle23"
+       cx="14.999999"
+       cy="-104.99999"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00ff55;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle16-1-1-9-2-1-1"
+       cx="29.999998"
+       cy="-120"
+       r="1.9999999"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Circular"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle26"
+       cx="30"
+       cy="-29.999998"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle28"
+       cx="60"
+       cy="-14.999999"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle30"
+       cx="90"
+       cy="-29.999998"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle32"
+       cx="105"
+       cy="-60"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle34"
+       cx="90"
+       cy="-89.999992"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle36"
+       cx="60.000004"
+       cy="-105"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle38"
+       cx="30.000002"
+       cy="-89.999992"
+       r="1.9999999"
+       transform="rotate(90)" />
+    <circle
+       style="display:inline;fill:#00cdff;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       id="circle40"
+       cx="15.000001"
+       cy="-60"
+       r="1.9999999"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Text"
+     sodipodi:insensitive="true" />
+  <text
+     xml:space="preserve"
+     style="font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+     x="67.999992"
+     y="4.9999995"
+     id="text40"><tspan
+       sodipodi:role="line"
+       id="tspan40"
+       style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:0.17"
+       x="67.999992"
+       y="4.9999995">Switch layers on and off to see the different pattern options</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:0.17"
+       x="67.999992"
+       y="9.4097242"
+       id="tspan41">(When opened in InkScape)</tspan></text>
+</svg>
