@@ -1,0 +1,6 @@
+.vs
+.vscode
+*.bak
+*.swp
+~*
+
