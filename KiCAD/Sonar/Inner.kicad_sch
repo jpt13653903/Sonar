@@ -791,7 +791,7 @@
 			(uuid "96d3e362-5a72-4027-a337-e2f462887fa7")
 		)
 		(instances
-			(project ""
+			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/4c306752-d78b-44ba-97b7-70fe8acfda85/589d5cd5-fe24-46b7-85ca-631bbaad505d"
 					(reference "#PWR010")
 					(unit 1)
@@ -1193,7 +1193,7 @@
 			(uuid "d2552a3e-9787-41f7-8050-48b1284f5a55")
 		)
 		(instances
-			(project ""
+			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/4c306752-d78b-44ba-97b7-70fe8acfda85/589d5cd5-fe24-46b7-85ca-631bbaad505d"
 					(reference "U2")
 					(unit 1)
@@ -1447,7 +1447,7 @@
 			(uuid "d0b457c3-b376-450d-9f52-8190395abcd5")
 		)
 		(instances
-			(project ""
+			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/4c306752-d78b-44ba-97b7-70fe8acfda85/589d5cd5-fe24-46b7-85ca-631bbaad505d"
 					(reference "#PWR012")
 					(unit 1)

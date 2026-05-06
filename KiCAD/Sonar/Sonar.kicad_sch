@@ -656,7 +656,7 @@
 			(uuid "27aae3cc-2072-40bd-bd39-6f5d0041768d")
 		)
 		(instances
-			(project ""
+			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
 					(reference "R1")
 					(unit 1)
@@ -851,7 +851,7 @@
 			(uuid "fdfc0e75-2e75-4256-a85e-ba4c3b7875ce")
 		)
 		(instances
-			(project ""
+			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
 					(reference "#PWR01")
 					(unit 1)
