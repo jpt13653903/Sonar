@@ -3046,6 +3046,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 99.06 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "79edaafd-04a7-4a0e-8c4a-0ef17ec993ec")
 		)
@@ -3277,6 +3288,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 152.4 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bda44a1b-3433-4053-8fee-1edc57e5a857")
 		)
@@ -3437,6 +3459,17 @@
 		)
 		(property "BOM" "Yes"
 			(at 76.2 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 40.64 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3713,6 +3746,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 152.4 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "74845f72-337b-4f9e-96ad-76b466a7f2cc")
 		)
@@ -3881,6 +3925,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 180.34 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f45f66dc-b17b-4d29-8794-1b65838f8b7f")
 		)
@@ -4041,6 +4096,17 @@
 		)
 		(property "BOM" "Yes"
 			(at 137.16 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 101.6 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4497,6 +4563,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 241.3 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "50e0003f-2a5f-4043-a2c8-fa39f9209d35")
 		)
@@ -4657,6 +4734,17 @@
 		)
 		(property "BOM" "Yes"
 			(at 259.08 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 223.52 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5032,6 +5120,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 220.98 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bb99d051-c1de-45f1-afb7-80ed6c99dcd7")
 		)
@@ -5192,6 +5291,17 @@
 		)
 		(property "BOM" "Yes"
 			(at 259.08 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 223.52 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5648,6 +5758,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 58.42 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "53a0745b-87d0-472c-8550-7f5a480a9621")
 		)
@@ -5816,6 +5937,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 119.38 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c6232203-cd2e-43da-a062-2df57388bfcb")
 		)
@@ -5982,6 +6114,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 220.98 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6377,6 +6520,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 213.36 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "12f1832c-e688-422f-a345-197bd4a56bbc")
 		)
@@ -6524,6 +6678,17 @@
 		)
 		(property "SPN" "534-5014"
 			(at 218.44 116.078 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 193.04 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6696,6 +6861,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 38.1 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6927,6 +7103,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 91.44 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7178,6 +7365,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 119.38 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "680fc162-db76-4dbe-b80a-f00efff3ef2f")
 		)
@@ -7409,6 +7607,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 43.18 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4d8ebbed-453f-47fe-b4b5-e1b1ff3309f8")
 		)
@@ -7575,6 +7784,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 58.42 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -7808,6 +8028,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 30.48 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b57ecab-541c-4886-ad61-ddc7236ad37f")
 		)
@@ -7976,6 +8207,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 38.1 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2e7f5ffd-1bcd-429c-99f5-d1b13fab7192")
 		)
@@ -8123,6 +8365,17 @@
 		)
 		(property "SPN" "534-5014"
 			(at 279.4 57.658 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 254 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8360,6 +8613,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 30.48 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "760eeab2-2653-4075-a255-2f0465c26d96")
 		)
@@ -8520,6 +8784,17 @@
 		)
 		(property "BOM" "Yes"
 			(at 76.2 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 40.64 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8734,6 +9009,17 @@
 				)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 162.56 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "1e37ec37-eb11-49e8-92d6-144ec4630f7c")
 		)
@@ -8938,6 +9224,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 160.02 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05beb229-425f-42d1-94c5-76d5050801ea")
 		)
@@ -9104,6 +9401,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 99.06 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9353,6 +9661,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 241.3 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -9667,6 +9986,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 91.44 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "da60a9e6-9980-4b61-87ea-ad0fcae078f5")
 		)
@@ -9827,6 +10157,17 @@
 		)
 		(property "BOM" "Yes"
 			(at 137.16 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 101.6 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10038,6 +10379,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 180.34 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -10269,6 +10621,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 30.48 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10518,6 +10881,17 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 160.02 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -10913,6 +11287,17 @@
 				(justify left)
 			)
 		)
+		(property "ManPartNo" ""
+			(at 213.36 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a9e75e8c-d45d-4a91-b372-cc8840b8e873")
 		)
@@ -11073,6 +11458,17 @@
 		)
 		(property "BOM" "Yes"
 			(at 198.12 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 162.56 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
