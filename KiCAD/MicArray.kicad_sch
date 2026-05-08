@@ -4455,7 +4455,7 @@
 	)
 	(hierarchical_label "CH8"
 		(shape output)
-		(at 193.04 233.68 270)
+		(at 48.26 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4466,7 +4466,7 @@
 	)
 	(hierarchical_label "CH5"
 		(shape output)
-		(at 139.7 233.68 270)
+		(at 91.44 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4477,7 +4477,7 @@
 	)
 	(hierarchical_label "CH2"
 		(shape output)
-		(at 48.26 233.68 270)
+		(at 193.04 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4488,7 +4488,7 @@
 	)
 	(hierarchical_label "CH6"
 		(shape output)
-		(at 144.78 233.68 270)
+		(at 96.52 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4499,7 +4499,7 @@
 	)
 	(hierarchical_label "CH4"
 		(shape output)
-		(at 96.52 233.68 270)
+		(at 144.78 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4510,7 +4510,7 @@
 	)
 	(hierarchical_label "CH1"
 		(shape output)
-		(at 43.18 233.68 270)
+		(at 187.96 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4521,7 +4521,7 @@
 	)
 	(hierarchical_label "CH14"
 		(shape output)
-		(at 337.82 233.68 270)
+		(at 289.56 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4532,7 +4532,7 @@
 	)
 	(hierarchical_label "CH16"
 		(shape output)
-		(at 386.08 233.68 270)
+		(at 241.3 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4543,7 +4543,7 @@
 	)
 	(hierarchical_label "CH13"
 		(shape output)
-		(at 332.74 233.68 270)
+		(at 284.48 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4554,7 +4554,7 @@
 	)
 	(hierarchical_label "CH12"
 		(shape output)
-		(at 289.56 233.68 270)
+		(at 337.82 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4565,7 +4565,7 @@
 	)
 	(hierarchical_label "CH3"
 		(shape output)
-		(at 91.44 233.68 270)
+		(at 139.7 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4576,7 +4576,7 @@
 	)
 	(hierarchical_label "CH15"
 		(shape output)
-		(at 381 233.68 270)
+		(at 236.22 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4587,7 +4587,7 @@
 	)
 	(hierarchical_label "CH7"
 		(shape output)
-		(at 187.96 233.68 270)
+		(at 43.18 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4598,7 +4598,7 @@
 	)
 	(hierarchical_label "CH9"
 		(shape output)
-		(at 236.22 233.68 270)
+		(at 381 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4609,7 +4609,7 @@
 	)
 	(hierarchical_label "CH10"
 		(shape output)
-		(at 241.3 233.68 270)
+		(at 386.08 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4620,7 +4620,7 @@
 	)
 	(hierarchical_label "CH11"
 		(shape output)
-		(at 284.48 233.68 270)
+		(at 332.74 233.68 270)
 		(effects
 			(font
 				(size 1.27 1.27)

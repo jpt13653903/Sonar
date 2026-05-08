@@ -959,7 +959,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05ae628c-65ba-46ad-b879-8f1356efbdcb")
-		(property "Reference" "#PWR0272"
+		(property "Reference" "#PWR04"
 			(at 88.9 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -1019,7 +1019,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(reference "#PWR0272")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -1246,7 +1246,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "490180ef-aafe-446c-9e87-0fd1db9b1515")
-		(property "Reference" "#PWR0271"
+		(property "Reference" "#PWR03"
 			(at 76.2 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -1306,7 +1306,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(reference "#PWR0271")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -1323,7 +1323,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "58b3de72-6ff1-4e00-a757-6f4a53847447")
-		(property "Reference" "#PWR0269"
+		(property "Reference" "#PWR01"
 			(at 50.8 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -1383,7 +1383,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(reference "#PWR0269")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -1400,7 +1400,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5cecee99-b46c-4506-96cd-16c8a482c61e")
-		(property "Reference" "#PWR0270"
+		(property "Reference" "#PWR02"
 			(at 63.5 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -1460,7 +1460,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(reference "#PWR0270")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
