@@ -36,7 +36,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Sonar:CrossBar_2x2"
 				(at 26.67 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4661,7 +4661,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -4784,7 +4784,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -4907,7 +4907,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -5030,7 +5030,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -5153,7 +5153,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -5276,7 +5276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -5399,7 +5399,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -5522,7 +5522,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -5645,7 +5645,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -5768,7 +5768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -5891,7 +5891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -6014,7 +6014,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -6137,7 +6137,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -6260,7 +6260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -6383,7 +6383,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -6506,7 +6506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -6629,7 +6629,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -6752,7 +6752,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -6875,7 +6875,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -6998,7 +6998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -7121,7 +7121,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -7244,7 +7244,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -7367,7 +7367,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -7490,7 +7490,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -7613,7 +7613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -7736,7 +7736,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -7859,7 +7859,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -7982,7 +7982,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -8105,7 +8105,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -8228,7 +8228,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -8351,7 +8351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -8474,7 +8474,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -8597,7 +8597,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 209.22 0)
 			(hide yes)
 			(show_name no)
@@ -8720,7 +8720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -8843,7 +8843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -8966,7 +8966,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -9089,7 +9089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -9212,7 +9212,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 400.05 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -9335,7 +9335,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -9458,7 +9458,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -9581,7 +9581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -9704,7 +9704,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -9827,7 +9827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -9950,7 +9950,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -10073,7 +10073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -10196,7 +10196,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -10319,7 +10319,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -10442,7 +10442,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -10565,7 +10565,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -10688,7 +10688,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -10811,7 +10811,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -10934,7 +10934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -11057,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 133.02 0)
 			(hide yes)
 			(show_name no)
@@ -11180,7 +11180,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 62.23 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -11303,7 +11303,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -11426,7 +11426,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 255.27 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -11549,7 +11549,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -11672,7 +11672,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 303.53 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -11795,7 +11795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 285.42 0)
 			(hide yes)
 			(show_name no)
@@ -11918,7 +11918,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 351.79 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -12041,7 +12041,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 310.82 0)
 			(hide yes)
 			(show_name no)
@@ -12164,7 +12164,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 207.01 183.82 0)
 			(hide yes)
 			(show_name no)
@@ -12287,7 +12287,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 158.75 234.62 0)
 			(hide yes)
 			(show_name no)
@@ -12410,7 +12410,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sonar:CrossBar_2x2"
 			(at 110.49 260.02 0)
 			(hide yes)
 			(show_name no)
@@ -12502,7 +12502,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 177.8)
+		(at 160.02 101.6)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12518,7 +12518,7 @@
 		)
 		(uuid "012764a0-b6b0-4306-8d7c-9c5f1dbf33c9")
 		(property "Sheetname" "Mic27"
-			(at 160.02 177.0884 0)
+			(at 160.02 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12529,7 +12529,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 160.02 183.4646 0)
+			(at 160.02 107.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12540,7 +12540,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 177.8 180.34 0)
+			(at 177.8 104.14 0)
 			(uuid "6e63066e-9fd8-469c-9d6a-adf50c9ab61e")
 			(effects
 				(font
@@ -12558,7 +12558,7 @@
 		)
 	)
 	(sheet
-		(at 353.06 101.6)
+		(at 353.06 152.4)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12574,7 +12574,7 @@
 		)
 		(uuid "04036e8e-751e-454f-ad73-f85c77e44a37")
 		(property "Sheetname" "Mic47"
-			(at 353.06 100.8884 0)
+			(at 353.06 151.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12585,7 +12585,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 353.06 107.2646 0)
+			(at 353.06 158.0646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12596,7 +12596,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 370.84 104.14 0)
+			(at 370.84 154.94 0)
 			(uuid "6bbfdcbf-2640-45d1-af68-ea8c1dd24dd2")
 			(effects
 				(font
@@ -12614,7 +12614,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 50.8)
+		(at 63.5 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12630,7 +12630,7 @@
 		)
 		(uuid "09052837-f23f-41cb-8eac-73ea2bbd1b72")
 		(property "Sheetname" "Mic33"
-			(at 63.5 50.0884 0)
+			(at 63.5 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12641,7 +12641,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 63.5 56.4646 0)
+			(at 63.5 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12652,7 +12652,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 81.28 53.34 0)
+			(at 81.28 129.54 0)
 			(uuid "9b85f792-27a6-43bb-ae85-c902125730d0")
 			(effects
 				(font
@@ -12726,7 +12726,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 76.2)
+		(at 63.5 50.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12742,7 +12742,7 @@
 		)
 		(uuid "1407bd7d-d8cc-4b02-8065-7128ff0af0de")
 		(property "Sheetname" "Mic9"
-			(at 63.5 75.4884 0)
+			(at 63.5 50.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12753,7 +12753,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 63.5 81.8646 0)
+			(at 63.5 56.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12764,7 +12764,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 81.28 78.74 0)
+			(at 81.28 53.34 0)
 			(uuid "fcbfe2df-fcad-4879-b3e6-ebc5498f6228")
 			(effects
 				(font
@@ -12782,7 +12782,7 @@
 		)
 	)
 	(sheet
-		(at 353.06 50.8)
+		(at 353.06 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12798,7 +12798,7 @@
 		)
 		(uuid "1511dd08-0213-48e8-ac83-e8ed45f5b750")
 		(property "Sheetname" "Mic39"
-			(at 353.06 50.0884 0)
+			(at 353.06 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12809,7 +12809,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 353.06 56.4646 0)
+			(at 353.06 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12820,7 +12820,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 370.84 53.34 0)
+			(at 370.84 129.54 0)
 			(uuid "1fb2a618-5a4b-4491-a752-d14d94fd5042")
 			(effects
 				(font
@@ -12894,7 +12894,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 101.6)
+		(at 160.02 152.4)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12910,7 +12910,7 @@
 		)
 		(uuid "274ad015-546d-4e5a-a034-b2266c65d23f")
 		(property "Sheetname" "Mic43"
-			(at 160.02 100.8884 0)
+			(at 160.02 151.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12921,7 +12921,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 160.02 107.2646 0)
+			(at 160.02 158.0646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12932,7 +12932,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 177.8 104.14 0)
+			(at 177.8 154.94 0)
 			(uuid "f3f95fd4-775c-4487-a7d3-806b373d1ccc")
 			(effects
 				(font
@@ -13006,7 +13006,7 @@
 		)
 	)
 	(sheet
-		(at 15.24 76.2)
+		(at 15.24 50.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13022,7 +13022,7 @@
 		)
 		(uuid "31850486-05ed-4625-ab0b-1b8d44a59d98")
 		(property "Sheetname" "Mic8"
-			(at 15.24 75.4884 0)
+			(at 15.24 50.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13033,7 +13033,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 15.24 81.8646 0)
+			(at 15.24 56.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13044,7 +13044,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 33.02 78.74 0)
+			(at 33.02 53.34 0)
 			(uuid "b25333a6-7362-4772-aebe-06bf2ca9f899")
 			(effects
 				(font
@@ -13118,7 +13118,7 @@
 		)
 	)
 	(sheet
-		(at 15.24 177.8)
+		(at 15.24 101.6)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13134,7 +13134,7 @@
 		)
 		(uuid "34c95ef7-7b62-4a42-b6e2-6287bfc66874")
 		(property "Sheetname" "Mic24"
-			(at 15.24 177.0884 0)
+			(at 15.24 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13145,7 +13145,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 15.24 183.4646 0)
+			(at 15.24 107.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13156,7 +13156,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 33.02 180.34 0)
+			(at 33.02 104.14 0)
 			(uuid "1e3b19bc-125b-4d68-8a23-60de9b39f688")
 			(effects
 				(font
@@ -13230,7 +13230,7 @@
 		)
 	)
 	(sheet
-		(at 208.28 127)
+		(at 208.28 76.2)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13246,118 +13246,6 @@
 		)
 		(uuid "46470783-cd08-4c59-8d90-98b514acfa19")
 		(property "Sheetname" "Mic20"
-			(at 208.28 126.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 208.28 132.6646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 226.06 129.54 0)
-			(uuid "0062e60b-89e6-48bc-94e4-686e1d52ba92")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "30")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 111.76 101.6)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "48156ab1-aae1-4177-b425-d136492e8910")
-		(property "Sheetname" "Mic42"
-			(at 111.76 100.8884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 111.76 107.2646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 129.54 104.14 0)
-			(uuid "d4287c91-b505-41eb-9144-421e5bbca0d3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "52")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 208.28 76.2)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "4a1d3410-e001-40ee-bdd8-3d6f0bc5d2b9")
-		(property "Sheetname" "Mic12"
 			(at 208.28 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13381,6 +13269,118 @@
 		)
 		(pin "OUT" output
 			(at 226.06 78.74 0)
+			(uuid "0062e60b-89e6-48bc-94e4-686e1d52ba92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "30")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 152.4)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "48156ab1-aae1-4177-b425-d136492e8910")
+		(property "Sheetname" "Mic42"
+			(at 111.76 151.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 111.76 158.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 129.54 154.94 0)
+			(uuid "d4287c91-b505-41eb-9144-421e5bbca0d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "52")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 50.8)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4a1d3410-e001-40ee-bdd8-3d6f0bc5d2b9")
+		(property "Sheetname" "Mic12"
+			(at 208.28 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 208.28 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 226.06 53.34 0)
 			(uuid "e2a66a04-0c05-45a7-bf2c-fb9c75ea530f")
 			(effects
 				(font
@@ -13398,7 +13398,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 152.4)
+		(at 160.02 177.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13414,7 +13414,7 @@
 		)
 		(uuid "4aeb4ff5-566d-4f0c-9a12-5172847fa77f")
 		(property "Sheetname" "Mic51"
-			(at 160.02 151.6884 0)
+			(at 160.02 177.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13425,7 +13425,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 160.02 158.0646 0)
+			(at 160.02 183.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13436,7 +13436,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 177.8 154.94 0)
+			(at 177.8 180.34 0)
 			(uuid "95e27420-ae6c-4874-8877-7445ed61766a")
 			(effects
 				(font
@@ -13454,7 +13454,7 @@
 		)
 	)
 	(sheet
-		(at 111.76 177.8)
+		(at 111.76 101.6)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13470,7 +13470,7 @@
 		)
 		(uuid "4b29c5c4-cc9b-420c-8558-e300ea2f2a08")
 		(property "Sheetname" "Mic26"
-			(at 111.76 177.0884 0)
+			(at 111.76 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13481,7 +13481,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 111.76 183.4646 0)
+			(at 111.76 107.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13492,7 +13492,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 129.54 180.34 0)
+			(at 129.54 104.14 0)
 			(uuid "839402a8-32ca-44e0-8220-82a898846248")
 			(effects
 				(font
@@ -13510,7 +13510,7 @@
 		)
 	)
 	(sheet
-		(at 304.8 152.4)
+		(at 304.8 177.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13526,7 +13526,7 @@
 		)
 		(uuid "4dca029b-6498-4be8-900d-97a8158939bb")
 		(property "Sheetname" "Mic54"
-			(at 304.8 151.6884 0)
+			(at 304.8 177.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13537,7 +13537,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 304.8 158.0646 0)
+			(at 304.8 183.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13548,7 +13548,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 322.58 154.94 0)
+			(at 322.58 180.34 0)
 			(uuid "bbd2c4a8-9953-416c-a419-262b25c40def")
 			(effects
 				(font
@@ -13566,7 +13566,7 @@
 		)
 	)
 	(sheet
-		(at 256.54 152.4)
+		(at 256.54 177.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13582,7 +13582,7 @@
 		)
 		(uuid "50aaa4cf-4396-4c02-a7c4-4af1dc2aac22")
 		(property "Sheetname" "Mic53"
-			(at 256.54 151.6884 0)
+			(at 256.54 177.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13593,7 +13593,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 256.54 158.0646 0)
+			(at 256.54 183.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13604,7 +13604,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 274.32 154.94 0)
+			(at 274.32 180.34 0)
 			(uuid "ffd1b970-c5ca-4eaf-a6dd-fc686f94ff26")
 			(effects
 				(font
@@ -13678,7 +13678,7 @@
 		)
 	)
 	(sheet
-		(at 15.24 101.6)
+		(at 15.24 152.4)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13694,7 +13694,7 @@
 		)
 		(uuid "56f45db8-17f2-4f96-a2e7-6c6d4b53cb79")
 		(property "Sheetname" "Mic40"
-			(at 15.24 100.8884 0)
+			(at 15.24 151.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13705,7 +13705,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 15.24 107.2646 0)
+			(at 15.24 158.0646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13716,7 +13716,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 33.02 104.14 0)
+			(at 33.02 154.94 0)
 			(uuid "0fe991e2-09d4-4880-b068-bf08f39d7f97")
 			(effects
 				(font
@@ -13734,7 +13734,7 @@
 		)
 	)
 	(sheet
-		(at 353.06 177.8)
+		(at 353.06 101.6)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13750,7 +13750,7 @@
 		)
 		(uuid "58dfbbcb-4ea2-407a-8457-09bc36d7fe49")
 		(property "Sheetname" "Mic31"
-			(at 353.06 177.0884 0)
+			(at 353.06 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13761,7 +13761,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 353.06 183.4646 0)
+			(at 353.06 107.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13772,7 +13772,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 370.84 180.34 0)
+			(at 370.84 104.14 0)
 			(uuid "21c2555a-969e-4284-8290-f045e09a064f")
 			(effects
 				(font
@@ -13790,7 +13790,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 177.8)
+		(at 63.5 101.6)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13806,7 +13806,7 @@
 		)
 		(uuid "5b6a57c0-a05f-4265-9c27-ebdf38cfbc2e")
 		(property "Sheetname" "Mic25"
-			(at 63.5 177.0884 0)
+			(at 63.5 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13817,7 +13817,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 63.5 183.4646 0)
+			(at 63.5 107.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13828,7 +13828,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 81.28 180.34 0)
+			(at 81.28 104.14 0)
 			(uuid "0ba70eda-56cf-4b66-8129-08b15fd2fd0f")
 			(effects
 				(font
@@ -13846,7 +13846,7 @@
 		)
 	)
 	(sheet
-		(at 304.8 50.8)
+		(at 304.8 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13862,7 +13862,7 @@
 		)
 		(uuid "5eeb94eb-fade-428e-aa86-e690f5e939ed")
 		(property "Sheetname" "Mic38"
-			(at 304.8 50.0884 0)
+			(at 304.8 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13873,7 +13873,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 304.8 56.4646 0)
+			(at 304.8 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13884,7 +13884,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 322.58 53.34 0)
+			(at 322.58 129.54 0)
 			(uuid "8175bcbd-b03b-430d-9f0a-72a45d655eef")
 			(effects
 				(font
@@ -13902,7 +13902,7 @@
 		)
 	)
 	(sheet
-		(at 15.24 127)
+		(at 15.24 76.2)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13918,7 +13918,7 @@
 		)
 		(uuid "61cc9048-b900-4970-afc6-e195f399cd6c")
 		(property "Sheetname" "Mic16"
-			(at 15.24 126.2884 0)
+			(at 15.24 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13929,7 +13929,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 15.24 132.6646 0)
+			(at 15.24 81.8646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13940,7 +13940,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 33.02 129.54 0)
+			(at 33.02 78.74 0)
 			(uuid "6912e987-0786-46d0-91d3-cc65065b3330")
 			(effects
 				(font
@@ -13958,7 +13958,7 @@
 		)
 	)
 	(sheet
-		(at 111.76 76.2)
+		(at 111.76 50.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13974,7 +13974,7 @@
 		)
 		(uuid "6d36dbfb-9245-402e-a4b6-0354a5e0c3fd")
 		(property "Sheetname" "Mic10"
-			(at 111.76 75.4884 0)
+			(at 111.76 50.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13985,7 +13985,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 111.76 81.8646 0)
+			(at 111.76 56.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13996,7 +13996,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 129.54 78.74 0)
+			(at 129.54 53.34 0)
 			(uuid "6b220e9a-9b35-4b87-8bff-de6f557460f7")
 			(effects
 				(font
@@ -14009,62 +14009,6 @@
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
 					(page "20")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 353.06 127)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "6f816c06-d779-4b78-a8aa-37f464835adf")
-		(property "Sheetname" "Mic23"
-			(at 353.06 126.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 353.06 132.6646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 370.84 129.54 0)
-			(uuid "821de524-9ada-4bd3-8541-a87233d46d14")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "33")
 				)
 			)
 		)
@@ -14084,8 +14028,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "70bad5c2-d918-4de5-a3c2-73df9c8c13f2")
-		(property "Sheetname" "Mic15"
+		(uuid "6f816c06-d779-4b78-a8aa-37f464835adf")
+		(property "Sheetname" "Mic23"
 			(at 353.06 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14109,6 +14053,62 @@
 		)
 		(pin "OUT" output
 			(at 370.84 78.74 0)
+			(uuid "821de524-9ada-4bd3-8541-a87233d46d14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "33")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 353.06 50.8)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "70bad5c2-d918-4de5-a3c2-73df9c8c13f2")
+		(property "Sheetname" "Mic15"
+			(at 353.06 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 353.06 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 370.84 53.34 0)
 			(uuid "1097bd23-168a-400e-b5af-d078a29a9b01")
 			(effects
 				(font
@@ -14294,7 +14294,7 @@
 		)
 	)
 	(sheet
-		(at 256.54 50.8)
+		(at 256.54 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14310,7 +14310,7 @@
 		)
 		(uuid "8105efd0-67d7-45ab-b6b9-46c30ff934e4")
 		(property "Sheetname" "Mic37"
-			(at 256.54 50.0884 0)
+			(at 256.54 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14321,7 +14321,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 256.54 56.4646 0)
+			(at 256.54 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14332,7 +14332,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 274.32 53.34 0)
+			(at 274.32 129.54 0)
 			(uuid "ca8898ee-d9c3-4171-9224-0d6cc7c17a2d")
 			(effects
 				(font
@@ -14345,230 +14345,6 @@
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
 					(page "47")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 208.28 152.4)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "8663f450-eaeb-4133-8a57-8d8be5eee56e")
-		(property "Sheetname" "Mic52"
-			(at 208.28 151.6884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 208.28 158.0646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 226.06 154.94 0)
-			(uuid "c9800bc8-a3c7-4f12-8fb3-520c57cf5003")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "62")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 111.76 127)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "8bf8a7ee-605b-4c2d-b0f0-50e296ee0463")
-		(property "Sheetname" "Mic18"
-			(at 111.76 126.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 111.76 132.6646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 129.54 129.54 0)
-			(uuid "0cb39766-b835-4eba-9d2c-7986d6365dd8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "28")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 304.8 101.6)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "8e1e2cc1-2611-424c-b134-289a3ba03acc")
-		(property "Sheetname" "Mic46"
-			(at 304.8 100.8884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 304.8 107.2646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 322.58 104.14 0)
-			(uuid "b381a2a6-18c3-4565-8230-5de4c033fa35")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "56")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 353.06 152.4)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "8e209c05-2962-429a-a639-471b9d0006d3")
-		(property "Sheetname" "Mic55"
-			(at 353.06 151.6884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 353.06 158.0646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 370.84 154.94 0)
-			(uuid "ae7edb20-ca56-4a95-a31f-a8bb90e27c6e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "65")
 				)
 			)
 		)
@@ -14588,8 +14364,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "8f696117-ae55-45ac-961d-24b6c7d73a5d")
-		(property "Sheetname" "Mic28"
+		(uuid "8663f450-eaeb-4133-8a57-8d8be5eee56e")
+		(property "Sheetname" "Mic52"
 			(at 208.28 177.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14613,6 +14389,230 @@
 		)
 		(pin "OUT" output
 			(at 226.06 180.34 0)
+			(uuid "c9800bc8-a3c7-4f12-8fb3-520c57cf5003")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "62")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 76.2)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8bf8a7ee-605b-4c2d-b0f0-50e296ee0463")
+		(property "Sheetname" "Mic18"
+			(at 111.76 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 111.76 81.8646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 129.54 78.74 0)
+			(uuid "0cb39766-b835-4eba-9d2c-7986d6365dd8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "28")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 304.8 152.4)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8e1e2cc1-2611-424c-b134-289a3ba03acc")
+		(property "Sheetname" "Mic46"
+			(at 304.8 151.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 304.8 158.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 322.58 154.94 0)
+			(uuid "b381a2a6-18c3-4565-8230-5de4c033fa35")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "56")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 353.06 177.8)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8e209c05-2962-429a-a639-471b9d0006d3")
+		(property "Sheetname" "Mic55"
+			(at 353.06 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 353.06 183.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 370.84 180.34 0)
+			(uuid "ae7edb20-ca56-4a95-a31f-a8bb90e27c6e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "65")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 101.6)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8f696117-ae55-45ac-961d-24b6c7d73a5d")
+		(property "Sheetname" "Mic28"
+			(at 208.28 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 208.28 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 226.06 104.14 0)
 			(uuid "62390e9a-926f-4575-a605-985f70442812")
 			(effects
 				(font
@@ -14742,7 +14742,7 @@
 		)
 	)
 	(sheet
-		(at 111.76 152.4)
+		(at 111.76 177.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14758,7 +14758,7 @@
 		)
 		(uuid "a491bc7e-0a3b-4037-851f-f8820d5bcd48")
 		(property "Sheetname" "Mic50"
-			(at 111.76 151.6884 0)
+			(at 111.76 177.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14769,7 +14769,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 111.76 158.0646 0)
+			(at 111.76 183.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14780,7 +14780,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 129.54 154.94 0)
+			(at 129.54 180.34 0)
 			(uuid "503bfe9e-27d5-463f-ab6a-68559118c308")
 			(effects
 				(font
@@ -14798,7 +14798,7 @@
 		)
 	)
 	(sheet
-		(at 15.24 50.8)
+		(at 15.24 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14814,7 +14814,7 @@
 		)
 		(uuid "a8147ca4-1abe-44cc-b5dd-f915b89896eb")
 		(property "Sheetname" "Mic32"
-			(at 15.24 50.0884 0)
+			(at 15.24 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14825,7 +14825,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 15.24 56.4646 0)
+			(at 15.24 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14836,7 +14836,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 33.02 53.34 0)
+			(at 33.02 129.54 0)
 			(uuid "4d8df68a-f04a-4d14-9c72-aa8a6136f68e")
 			(effects
 				(font
@@ -14854,7 +14854,7 @@
 		)
 	)
 	(sheet
-		(at 256.54 101.6)
+		(at 256.54 152.4)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14870,7 +14870,7 @@
 		)
 		(uuid "ad151e65-e049-4530-899e-ed35e42d0a57")
 		(property "Sheetname" "Mic45"
-			(at 256.54 100.8884 0)
+			(at 256.54 151.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14881,7 +14881,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 256.54 107.2646 0)
+			(at 256.54 158.0646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14892,7 +14892,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 274.32 104.14 0)
+			(at 274.32 154.94 0)
 			(uuid "62779772-3ed8-4ef0-9b43-e93b5f0d8db7")
 			(effects
 				(font
@@ -14910,7 +14910,7 @@
 		)
 	)
 	(sheet
-		(at 208.28 50.8)
+		(at 208.28 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14926,7 +14926,7 @@
 		)
 		(uuid "aee52811-3e24-4b22-8740-96884f8a62df")
 		(property "Sheetname" "Mic36"
-			(at 208.28 50.0884 0)
+			(at 208.28 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14937,7 +14937,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 208.28 56.4646 0)
+			(at 208.28 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14948,7 +14948,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 226.06 53.34 0)
+			(at 226.06 129.54 0)
 			(uuid "f8895e48-e39c-415a-a847-a66617b15000")
 			(effects
 				(font
@@ -14966,7 +14966,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 50.8)
+		(at 160.02 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14982,7 +14982,7 @@
 		)
 		(uuid "b14f22ea-2890-4b28-bb80-a02da5e52b2f")
 		(property "Sheetname" "Mic35"
-			(at 160.02 50.0884 0)
+			(at 160.02 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14993,7 +14993,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 160.02 56.4646 0)
+			(at 160.02 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15004,7 +15004,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 177.8 53.34 0)
+			(at 177.8 129.54 0)
 			(uuid "28756903-275c-4725-abd7-ad8b9d37838c")
 			(effects
 				(font
@@ -15134,7 +15134,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 152.4)
+		(at 63.5 177.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15150,7 +15150,7 @@
 		)
 		(uuid "c6315849-f803-4f6f-bbf4-1120eb4977b0")
 		(property "Sheetname" "Mic49"
-			(at 63.5 151.6884 0)
+			(at 63.5 177.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15161,7 +15161,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 63.5 158.0646 0)
+			(at 63.5 183.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15172,7 +15172,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 81.28 154.94 0)
+			(at 81.28 180.34 0)
 			(uuid "3e57f8c1-fcb3-4065-aff8-a816c979bb28")
 			(effects
 				(font
@@ -15190,7 +15190,7 @@
 		)
 	)
 	(sheet
-		(at 304.8 177.8)
+		(at 304.8 101.6)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15206,7 +15206,7 @@
 		)
 		(uuid "ca761113-addd-4fff-a953-43ef04001157")
 		(property "Sheetname" "Mic30"
-			(at 304.8 177.0884 0)
+			(at 304.8 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15217,7 +15217,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 304.8 183.4646 0)
+			(at 304.8 107.2646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15228,7 +15228,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 322.58 180.34 0)
+			(at 322.58 104.14 0)
 			(uuid "20df33c4-6ee0-4c39-b862-5fa4f3f453c3")
 			(effects
 				(font
@@ -15246,7 +15246,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 127)
+		(at 63.5 76.2)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15262,7 +15262,7 @@
 		)
 		(uuid "cabb093a-3c1e-495e-a976-7b419ca1205d")
 		(property "Sheetname" "Mic17"
-			(at 63.5 126.2884 0)
+			(at 63.5 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15273,7 +15273,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 63.5 132.6646 0)
+			(at 63.5 81.8646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15284,7 +15284,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 81.28 129.54 0)
+			(at 81.28 78.74 0)
 			(uuid "dd3e7d53-80ab-498a-bb11-c8e91b24a87a")
 			(effects
 				(font
@@ -15358,7 +15358,7 @@
 		)
 	)
 	(sheet
-		(at 256.54 127)
+		(at 256.54 76.2)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15374,7 +15374,7 @@
 		)
 		(uuid "cf60d2e9-c5bb-4cbf-9d30-2713947cc38e")
 		(property "Sheetname" "Mic21"
-			(at 256.54 126.2884 0)
+			(at 256.54 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15385,7 +15385,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 256.54 132.6646 0)
+			(at 256.54 81.8646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15396,7 +15396,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 274.32 129.54 0)
+			(at 274.32 78.74 0)
 			(uuid "66568c3d-610a-46d5-9ccf-330986bccaa9")
 			(effects
 				(font
@@ -15414,7 +15414,7 @@
 		)
 	)
 	(sheet
-		(at 15.24 152.4)
+		(at 15.24 177.8)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15430,7 +15430,7 @@
 		)
 		(uuid "d01a1f71-a73b-472b-b3c2-976fa4e31d16")
 		(property "Sheetname" "Mic48"
-			(at 15.24 151.6884 0)
+			(at 15.24 177.0884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15441,7 +15441,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 15.24 158.0646 0)
+			(at 15.24 183.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15452,7 +15452,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 33.02 154.94 0)
+			(at 33.02 180.34 0)
 			(uuid "60bd6532-631a-48b2-8431-8237a4bd178b")
 			(effects
 				(font
@@ -15526,7 +15526,7 @@
 		)
 	)
 	(sheet
-		(at 111.76 50.8)
+		(at 111.76 127)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15542,7 +15542,7 @@
 		)
 		(uuid "d2300fae-1112-47f8-90b3-4ce3d815cba1")
 		(property "Sheetname" "Mic34"
-			(at 111.76 50.0884 0)
+			(at 111.76 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15553,7 +15553,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 111.76 56.4646 0)
+			(at 111.76 132.6646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15564,7 +15564,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 129.54 53.34 0)
+			(at 129.54 129.54 0)
 			(uuid "e10bdb0a-b7dd-4367-989b-ba134cdc8d93")
 			(effects
 				(font
@@ -15638,7 +15638,7 @@
 		)
 	)
 	(sheet
-		(at 304.8 127)
+		(at 304.8 76.2)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15654,174 +15654,6 @@
 		)
 		(uuid "d95fb564-cc50-471f-b374-c37e52e444b0")
 		(property "Sheetname" "Mic22"
-			(at 304.8 126.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 304.8 132.6646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 322.58 129.54 0)
-			(uuid "c1f15bed-d18f-4635-a921-0af565af9b40")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "32")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 256.54 177.8)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "dcccc2cd-c376-4fd8-bd12-5561f30efc8a")
-		(property "Sheetname" "Mic29"
-			(at 256.54 177.0884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 256.54 183.4646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 274.32 180.34 0)
-			(uuid "1603923f-20b5-4f96-8870-af75dc589333")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "39")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 256.54 76.2)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "df949ee7-9cbf-43d0-9641-215666755bc6")
-		(property "Sheetname" "Mic13"
-			(at 256.54 75.4884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 256.54 81.8646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 274.32 78.74 0)
-			(uuid "995e7ee2-820f-4df4-b852-0fc62d367781")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "23")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 304.8 76.2)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "e2098ba2-e4aa-4f45-891b-56782562d35c")
-		(property "Sheetname" "Mic14"
 			(at 304.8 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15845,6 +15677,174 @@
 		)
 		(pin "OUT" output
 			(at 322.58 78.74 0)
+			(uuid "c1f15bed-d18f-4635-a921-0af565af9b40")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 256.54 101.6)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "dcccc2cd-c376-4fd8-bd12-5561f30efc8a")
+		(property "Sheetname" "Mic29"
+			(at 256.54 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 256.54 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 274.32 104.14 0)
+			(uuid "1603923f-20b5-4f96-8870-af75dc589333")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "39")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 256.54 50.8)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "df949ee7-9cbf-43d0-9641-215666755bc6")
+		(property "Sheetname" "Mic13"
+			(at 256.54 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 256.54 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 274.32 53.34 0)
+			(uuid "995e7ee2-820f-4df4-b852-0fc62d367781")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 304.8 50.8)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e2098ba2-e4aa-4f45-891b-56782562d35c")
+		(property "Sheetname" "Mic14"
+			(at 304.8 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 304.8 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 322.58 53.34 0)
 			(uuid "894f07d1-01f9-469a-b8a9-1c9e3144a8c1")
 			(effects
 				(font
@@ -15862,7 +15862,7 @@
 		)
 	)
 	(sheet
-		(at 208.28 101.6)
+		(at 208.28 152.4)
 		(size 17.78 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15878,7 +15878,7 @@
 		)
 		(uuid "f2573a71-a3b5-4366-aeac-998cfdc8ab60")
 		(property "Sheetname" "Mic44"
-			(at 208.28 100.8884 0)
+			(at 208.28 151.6884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15889,7 +15889,7 @@
 			)
 		)
 		(property "Sheetfile" "Mic.kicad_sch"
-			(at 208.28 107.2646 0)
+			(at 208.28 158.0646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15900,7 +15900,7 @@
 			)
 		)
 		(pin "OUT" output
-			(at 226.06 104.14 0)
+			(at 226.06 154.94 0)
 			(uuid "39bbe4c2-144e-4afd-99f3-d013c9f791a8")
 			(effects
 				(font
@@ -15913,118 +15913,6 @@
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
 					(page "54")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 160.02 127)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "f5058241-1f64-4307-a27f-3c71dbe1f3c9")
-		(property "Sheetname" "Mic19"
-			(at 160.02 126.2884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 160.02 132.6646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 177.8 129.54 0)
-			(uuid "8d4f59f7-40af-435c-a73f-a5f3cffe06ad")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "29")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 63.5 101.6)
-		(size 17.78 5.08)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "fd78d37e-cef8-4d43-8e6a-f5011cf88d73")
-		(property "Sheetname" "Mic41"
-			(at 63.5 100.8884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mic.kicad_sch"
-			(at 63.5 107.2646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "OUT" output
-			(at 81.28 104.14 0)
-			(uuid "d0995755-ea39-4185-a740-b6874b4154aa")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "Sonar"
-				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
-					(page "51")
 				)
 			)
 		)
@@ -16044,8 +15932,8 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "fd8ce804-0496-41d4-b9b2-4560d6f1cdaf")
-		(property "Sheetname" "Mic11"
+		(uuid "f5058241-1f64-4307-a27f-3c71dbe1f3c9")
+		(property "Sheetname" "Mic19"
 			(at 160.02 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16069,6 +15957,118 @@
 		)
 		(pin "OUT" output
 			(at 177.8 78.74 0)
+			(uuid "8d4f59f7-40af-435c-a73f-a5f3cffe06ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 152.4)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fd78d37e-cef8-4d43-8e6a-f5011cf88d73")
+		(property "Sheetname" "Mic41"
+			(at 63.5 151.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 63.5 158.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 81.28 154.94 0)
+			(uuid "d0995755-ea39-4185-a740-b6874b4154aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/bb5c245e-cf27-4de5-ba67-ef6dc517e6d9"
+					(page "51")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 50.8)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fd8ce804-0496-41d4-b9b2-4560d6f1cdaf")
+		(property "Sheetname" "Mic11"
+			(at 160.02 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mic.kicad_sch"
+			(at 160.02 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "OUT" output
+			(at 177.8 53.34 0)
 			(uuid "48f1a874-a6f6-4deb-b5a4-af1e9597e651")
 			(effects
 				(font
