@@ -6,3 +6,4 @@ _*
 *.kicad_prl
 fp-info-cache
 .history
+.history_trim
