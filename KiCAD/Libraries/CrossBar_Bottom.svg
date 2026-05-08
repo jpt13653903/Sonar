@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="CrossBar_Bottom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="22.627417"
+     inkscape:cx="12.727922"
+     inkscape:cy="22.030796"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="4.9999999"
+       originy="4.9999999"
+       spacingx="0.15"
+       spacingy="0.15"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Jumpers"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="circle46"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17;stroke-linecap:round;stroke-linejoin:round"
+       d="M 2.5249105 2.1559408 A 0.45000002 0.45000002 0 0 0 2.2815145 2.2815145 A 0.45000002 0.45000002 0 0 0 2.1678263 2.4737508 L 0.050642904 2.4737508 L 0.050642904 2.7238647 L 2.1673096 2.7238647 A 0.45000002 0.45000002 0 0 0 2.2815145 2.9176514 A 0.45000002 0.45000002 0 0 0 2.5249105 3.0432251 L 2.5249105 2.1559408 z M 2.6752889 2.1559408 L 2.6752889 3.0432251 A 0.45000002 0.45000002 0 0 0 2.9181681 2.9176514 A 0.45000002 0.45000002 0 0 0 3.032373 2.7238647 L 6.9675334 2.7238647 A 0.45000002 0.45000002 0 0 0 7.0817383 2.9176514 A 0.45000002 0.45000002 0 0 0 7.3246175 3.0432251 L 7.3246175 2.1559408 A 0.45000002 0.45000002 0 0 0 7.0817383 2.2815145 A 0.45000002 0.45000002 0 0 0 6.9680501 2.4737508 L 3.0318563 2.4737508 A 0.45000002 0.45000002 0 0 0 2.9181681 2.2815145 A 0.45000002 0.45000002 0 0 0 2.6752889 2.1559408 z M 7.4749959 2.1559408 L 7.4749959 3.0432251 A 0.45000002 0.45000002 0 0 0 7.7178752 2.9176514 A 0.45000002 0.45000002 0 0 0 7.8320801 2.7238647 L 9.9492635 2.7238647 L 9.9492635 2.4737508 L 7.8315633 2.4737508 A 0.45000002 0.45000002 0 0 0 7.7178752 2.2815145 A 0.45000002 0.45000002 0 0 0 7.4749959 2.1559408 z M 2.525944 6.9561646 A 0.45000002 0.45000002 0 0 0 2.282548 7.0817383 A 0.45000002 0.45000002 0 0 0 2.1683431 7.2744914 L 0.051676432 7.2744914 L 0.051676432 7.5240885 L 2.1683431 7.5240885 A 0.45000002 0.45000002 0 0 0 2.282548 7.7178752 A 0.45000002 0.45000002 0 0 0 2.525944 7.8434489 L 2.525944 6.9561646 z M 2.6763224 6.9561646 L 2.6763224 7.8434489 A 0.45000002 0.45000002 0 0 0 2.9192017 7.7178752 A 0.45000002 0.45000002 0 0 0 3.0328898 7.5240885 L 6.9685669 7.5240885 A 0.45000002 0.45000002 0 0 0 7.0827718 7.7178752 A 0.45000002 0.45000002 0 0 0 7.325651 7.8434489 L 7.325651 6.9561646 A 0.45000002 0.45000002 0 0 0 7.0827718 7.0817383 A 0.45000002 0.45000002 0 0 0 6.9685669 7.2744914 L 3.0328898 7.2744914 A 0.45000002 0.45000002 0 0 0 2.9192017 7.0817383 A 0.45000002 0.45000002 0 0 0 2.6763224 6.9561646 z M 7.4760295 6.9561646 L 7.4760295 7.8434489 A 0.45000002 0.45000002 0 0 0 7.7189087 7.7178752 A 0.45000002 0.45000002 0 0 0 7.8325968 7.5240885 L 9.9497803 7.5240885 L 9.9497803 7.2744914 L 7.8325968 7.2744914 A 0.45000002 0.45000002 0 0 0 7.7189087 7.0817383 A 0.45000002 0.45000002 0 0 0 7.4760295 6.9561646 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Tracks"
+     style="display:inline" />
+</svg>
