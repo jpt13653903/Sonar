@@ -237,7 +237,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v1.0"
     },
     "layer_pairs": [],
     "layer_presets": [
@@ -792,7 +792,7 @@
       "default_line_thickness": 8.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 0,
+      "hop_over_size_choice": 2,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -846,18 +846,6 @@
       "Control_Power"
     ],
     [
-      "d805971e-2ed0-4445-9008-7c8e9c8a72dc",
-      "ADC"
-    ],
-    [
-      "7253d229-a148-4852-a5df-aee85f445ed3",
-      "Amplifier_x8_1"
-    ],
-    [
-      "d4f507b5-5e41-4c89-a33e-5ff68010f119",
-      "Amplifier_x8_2"
-    ],
-    [
       "d06a8764-b678-496b-8ef3-374055721279",
       "Transmitter"
     ],
@@ -866,12 +854,24 @@
       "MicArray"
     ],
     [
+      "d805971e-2ed0-4445-9008-7c8e9c8a72dc",
+      "ADC"
+    ],
+    [
       "0b709c93-a61b-4029-8a15-34e0063ae79d",
       "MicBias_x8_1"
     ],
     [
       "2ca7d19e-fc81-4dbc-8457-6e919648a8fc",
       "MicBias_x8_2"
+    ],
+    [
+      "7253d229-a148-4852-a5df-aee85f445ed3",
+      "Amplifier_x8_1"
+    ],
+    [
+      "d4f507b5-5e41-4c89-a33e-5ff68010f119",
+      "Amplifier_x8_2"
     ]
   ],
   "text_variables": {},

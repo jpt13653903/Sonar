@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "28f9d169-72cd-4bf2-894c-12741d733c98")
 	(paper "A4")
+	(title_block
+		(title "Sonar Top Level")
+		(date "2026-05-09")
+		(rev "v1.0")
+		(company "University of Cape Town")
+	)
 	(lib_symbols
 		(symbol "Connectors:Keystone_5011_Black"
 			(pin_numbers
@@ -3491,7 +3497,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(page "7")
+					(page "4")
 				)
 			)
 		)
@@ -3557,7 +3563,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(page "6")
+					(page "3")
 				)
 			)
 		)
@@ -3993,7 +3999,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(page "3")
+					(page "5")
 				)
 			)
 		)
