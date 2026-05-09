@@ -9,6 +9,8 @@
 		(date "2026-05-09")
 		(rev "v1.0")
 		(company "University of Cape Town")
+		(comment 1 "Radar Remote Sensing Group")
+		(comment 2 "Radar Masters")
 	)
 	(lib_symbols
 		(symbol "Sensors:CMEJ-0415-42-P"

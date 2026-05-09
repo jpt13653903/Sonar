@@ -9,6 +9,8 @@
 		(date "2026-05-09")
 		(rev "v1.0")
 		(company "University of Cape Town")
+		(comment 1 "Radar Remote Sensing Group")
+		(comment 2 "Radar Masters")
 	)
 	(lib_symbols
 		(symbol "Capacitors:C0603_100n"
@@ -6184,7 +6186,7 @@
 		)
 		(uuid "6004f2e6-b8a9-41e5-bc91-4abb74d8422c")
 	)
-	(hierarchical_label "CS2"
+	(hierarchical_label "nCS2"
 		(shape input)
 		(at 307.34 147.32 180)
 		(effects
@@ -6195,7 +6197,7 @@
 		)
 		(uuid "60c16750-7c4f-42c7-b421-5b2c918c174c")
 	)
-	(hierarchical_label "CS1"
+	(hierarchical_label "nCS1"
 		(shape input)
 		(at 121.92 147.32 180)
 		(effects

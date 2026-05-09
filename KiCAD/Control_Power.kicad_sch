@@ -9,6 +9,8 @@
 		(date "2026-05-09")
 		(rev "v1.0")
 		(company "University of Cape Town")
+		(comment 1 "Radar Remote Sensing Group")
+		(comment 2 "Radar Masters")
 	)
 	(lib_symbols
 		(symbol "Connectors:DIN-20"
@@ -2898,7 +2900,7 @@
 		)
 		(uuid "199e789f-268c-4e97-8fe4-475cf9ce6a71")
 	)
-	(hierarchical_label "ADC1_CS"
+	(hierarchical_label "ADC1_nCS"
 		(shape output)
 		(at 134.62 73.66 180)
 		(effects
@@ -2942,7 +2944,7 @@
 		)
 		(uuid "524a72ec-a70f-42b2-80bd-790290b857fb")
 	)
-	(hierarchical_label "ADC2_CS"
+	(hierarchical_label "ADC2_nCS"
 		(shape output)
 		(at 134.62 101.6 180)
 		(effects

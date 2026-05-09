@@ -9,6 +9,8 @@
 		(date "2026-05-09")
 		(rev "v1.0")
 		(company "University of Cape Town")
+		(comment 1 "Radar Remote Sensing Group")
+		(comment 2 "Radar Masters")
 	)
 	(lib_symbols
 		(symbol "Connectors:Keystone_5011_Black"
@@ -3696,7 +3698,7 @@
 				(justify left)
 			)
 		)
-		(pin "CS1" input
+		(pin "nCS1" input
 			(at 127 71.12 180)
 			(uuid "bc61262b-213f-413e-9357-89dd6f551dde")
 			(effects
@@ -3776,7 +3778,7 @@
 				(justify left)
 			)
 		)
-		(pin "CS2" input
+		(pin "nCS2" input
 			(at 127 73.66 180)
 			(uuid "a04a62c5-aeb3-4aff-8ae7-da6622118541")
 			(effects
@@ -4122,7 +4124,7 @@
 				(justify right)
 			)
 		)
-		(pin "ADC1_CS" output
+		(pin "ADC1_nCS" output
 			(at 101.6 71.12 0)
 			(uuid "2cabc0ef-c582-4507-898a-5ea457892027")
 			(effects
@@ -4222,7 +4224,7 @@
 				(justify right)
 			)
 		)
-		(pin "ADC2_CS" output
+		(pin "ADC2_nCS" output
 			(at 101.6 73.66 0)
 			(uuid "a34701d9-aea8-4544-8228-beb9db3798bf")
 			(effects

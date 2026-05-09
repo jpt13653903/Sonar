@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "10.0.1"
     },
-    "CreationDate": "2026-05-09T00:24:41+02:00"
+    "CreationDate": "2026-05-09T13:37:24+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Sonar",
       "GUID": "536f6e61-722e-46b6-9963-61645f706362",
-      "Revision": "rev?"
+      "Revision": "v1.0"
     },
     "Size": {
       "X": 150.05,
@@ -36,7 +36,6 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.15,
-      "MinLineWidth": 0.5,
       "TrackToRegion": 0.25,
       "RegionToRegion": 0.25
     }
