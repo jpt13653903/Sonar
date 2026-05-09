@@ -429,6 +429,416 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Resistors0603:R0603_3k6"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 1.27 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "R0603_3k6"
+				(at 25.4 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+				(at 25.4 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+				(at 25.4 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TE Connectivity"
+				(at 25.4 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "MPN" "CRGP0603F3K6"
+				(at 25.4 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 25.4 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "SPN" "279-CRGP0603F3K6"
+				(at 25.4 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "DisplayValue" "3k6"
+				(at 1.27 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Package" "R0603"
+				(at 1.27 -1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "BOM" "Yes"
+				(at 25.4 8.255 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(symbol "R0603_3k6_1_1"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -1.27 -1.905) (xy 1.27 -0.635) (xy -1.27 0.635) (xy 1.27 1.905) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Resistors0603:R0603_5k6"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 1.27 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "R0603_5k6"
+				(at 25.4 6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+				(at 25.4 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+				(at 25.4 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TE Connectivity"
+				(at 25.4 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "MPN" "CRGP0603F5K6"
+				(at 25.4 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 25.4 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "SPN" "279-CRGP0603F5K6"
+				(at 25.4 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "DisplayValue" "5k6"
+				(at 1.27 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Package" "R0603"
+				(at 1.27 -1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "BOM" "Yes"
+				(at 25.4 8.255 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(symbol "R0603_5k6_1_1"
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -1.27 -1.905) (xy 1.27 -0.635) (xy -1.27 0.635) (xy 1.27 1.905) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+5V"
 			(power global)
 			(pin_numbers
@@ -685,10 +1095,40 @@
 		)
 	)
 	(junction
+		(at 106.68 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02fd748b-f764-4b3a-b5fa-4539a155944a")
+	)
+	(junction
 		(at 177.8 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "127d9000-3f38-460f-8e83-83d9ba83d5ff")
+	)
+	(junction
+		(at 157.48 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1d1a4f3b-3d72-446d-8153-9748a65c3588")
+	)
+	(junction
+		(at 208.28 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "283b09ea-72d2-448e-90fd-2a877b98023f")
+	)
+	(junction
+		(at 55.88 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a508600-5b8f-4633-a16b-49ad758336b7")
+	)
+	(junction
+		(at 157.48 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b2a9860-b2bb-4e71-823b-73b05b4e9478")
 	)
 	(junction
 		(at 228.6 114.3)
@@ -701,6 +1141,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57d0438f-670f-473f-a01f-ac072428a038")
+	)
+	(junction
+		(at 106.68 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88b00666-ada4-43cd-aa48-5ef383dd3536")
+	)
+	(junction
+		(at 55.88 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "919b4cbb-aab6-42ee-aa5d-b1b72fe1b904")
 	)
 	(junction
 		(at 127 63.5)
@@ -732,15 +1184,51 @@
 		(color 0 0 0 0)
 		(uuid "dc82aa92-8f8a-43d5-b459-3c7ee6da24c3")
 	)
+	(junction
+		(at 208.28 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0a6a9de-ff49-4ded-942e-de38e02935ce")
+	)
 	(wire
 		(pts
-			(xy 210.82 63.5) (xy 215.9 63.5)
+			(xy 106.68 127) (xy 106.68 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02a1fcb3-9fc4-4fdb-b4b8-9fbc7934f64e")
+	)
+	(wire
+		(pts
+			(xy 205.74 63.5) (xy 215.9 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "02fa07cb-cd27-472d-bda2-c93247c94072")
+	)
+	(wire
+		(pts
+			(xy 157.48 127) (xy 157.48 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03fb91e9-997c-44da-aafc-080781d12460")
+	)
+	(wire
+		(pts
+			(xy 106.68 48.26) (xy 106.68 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "051c80c4-1972-4d1e-a2b8-5b56ecd8c61a")
 	)
 	(wire
 		(pts
@@ -751,6 +1239,26 @@
 			(type default)
 		)
 		(uuid "0736bf44-00c9-4edd-b3a8-92cb46ef0f75")
+	)
+	(wire
+		(pts
+			(xy 157.48 60.96) (xy 157.48 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0abf3e86-dd9e-4f68-9f4d-8ce6e8e37303")
+	)
+	(wire
+		(pts
+			(xy 208.28 60.96) (xy 208.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bc4e7c7-0849-49cb-ba44-1d0832f4d3ab")
 	)
 	(wire
 		(pts
@@ -774,6 +1282,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 127) (xy 208.28 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dbc74e6-33e1-4061-86bc-3ba498a87cc6")
+	)
+	(wire
+		(pts
 			(xy 76.2 127) (xy 76.2 129.54)
 		)
 		(stroke
@@ -781,6 +1299,16 @@
 			(type default)
 		)
 		(uuid "1e3ba699-d34e-4d4b-aefa-be1fa8e2478a")
+	)
+	(wire
+		(pts
+			(xy 208.28 76.2) (xy 208.28 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "245f7dde-4558-4aa2-92fa-495a02ccbab7")
 	)
 	(wire
 		(pts
@@ -814,7 +1342,17 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 114.3) (xy 114.3 114.3)
+			(xy 106.68 99.06) (xy 106.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "381f314d-deca-4d10-85d4-f7bfe2e981e7")
+	)
+	(wire
+		(pts
+			(xy 104.14 114.3) (xy 114.3 114.3)
 		)
 		(stroke
 			(width 0)
@@ -864,7 +1402,47 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 63.5) (xy 114.3 63.5)
+			(xy 157.48 48.26) (xy 157.48 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "443dadfc-a55f-43a4-ace0-f58aaa99339f")
+	)
+	(wire
+		(pts
+			(xy 55.88 127) (xy 55.88 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44e5aed2-51bf-4320-b583-2e6e29bb25f4")
+	)
+	(wire
+		(pts
+			(xy 55.88 114.3) (xy 55.88 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45a8926e-c855-4eb2-9d07-bd3f95e64b45")
+	)
+	(wire
+		(pts
+			(xy 55.88 60.96) (xy 55.88 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b7c3e6-2982-47c3-b134-e3bf484f5597")
+	)
+	(wire
+		(pts
+			(xy 104.14 63.5) (xy 114.3 63.5)
 		)
 		(stroke
 			(width 0)
@@ -874,7 +1452,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 63.5) (xy 63.5 63.5)
+			(xy 53.34 63.5) (xy 55.88 63.5)
 		)
 		(stroke
 			(width 0)
@@ -904,6 +1482,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 48.26) (xy 55.88 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50c45b2e-6428-46ca-b358-f83a91e74c2e")
+	)
+	(wire
+		(pts
 			(xy 177.8 48.26) (xy 177.8 50.8)
 		)
 		(stroke
@@ -911,6 +1499,16 @@
 			(type default)
 		)
 		(uuid "537749c7-f428-4838-b757-f8a7c1e654fc")
+	)
+	(wire
+		(pts
+			(xy 157.48 111.76) (xy 157.48 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56907bac-e3b8-4a87-852a-e388a1e75b98")
 	)
 	(wire
 		(pts
@@ -924,7 +1522,27 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 114.3) (xy 63.5 114.3)
+			(xy 55.88 63.5) (xy 63.5 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60fc9dcd-9ccd-4ff1-92be-c817329e03c9")
+	)
+	(wire
+		(pts
+			(xy 106.68 111.76) (xy 106.68 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63943a8f-8ef6-4507-9a7d-b402f8fedeab")
+	)
+	(wire
+		(pts
+			(xy 53.34 114.3) (xy 63.5 114.3)
 		)
 		(stroke
 			(width 0)
@@ -941,6 +1559,16 @@
 			(type default)
 		)
 		(uuid "687b863d-e647-48e7-a4e9-e2bc87f543a6")
+	)
+	(wire
+		(pts
+			(xy 106.68 63.5) (xy 106.68 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b9301e1-5a7a-4bdf-b545-27e268188f58")
 	)
 	(wire
 		(pts
@@ -964,7 +1592,17 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 63.5) (xy 165.1 63.5)
+			(xy 106.68 114.3) (xy 106.68 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7628e019-f8ec-449a-8df6-397de2cb5a3e")
+	)
+	(wire
+		(pts
+			(xy 154.94 63.5) (xy 165.1 63.5)
 		)
 		(stroke
 			(width 0)
@@ -981,6 +1619,16 @@
 			(type default)
 		)
 		(uuid "798aff91-56e2-4bf0-a6d4-bd1f7fb9c63f")
+	)
+	(wire
+		(pts
+			(xy 55.88 99.06) (xy 55.88 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ac60625-9263-4e3b-9803-a11ae2051b49")
 	)
 	(wire
 		(pts
@@ -1064,6 +1712,26 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 48.26) (xy 208.28 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97cc3c0c-4f21-4648-90f7-21ab7e4a7750")
+	)
+	(wire
+		(pts
+			(xy 157.48 114.3) (xy 157.48 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cd87bca-64ae-424e-bb61-f6f350d526e3")
+	)
+	(wire
+		(pts
 			(xy 127 114.3) (xy 132.08 114.3)
 		)
 		(stroke
@@ -1074,7 +1742,17 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 114.3) (xy 215.9 114.3)
+			(xy 106.68 60.96) (xy 106.68 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a98d447e-b51d-4c04-8f6c-e65d5710a808")
+	)
+	(wire
+		(pts
+			(xy 205.74 114.3) (xy 215.9 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1094,6 +1772,26 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 111.76) (xy 55.88 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acddd615-5632-4988-8de6-315c25d14e81")
+	)
+	(wire
+		(pts
+			(xy 208.28 111.76) (xy 208.28 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af34b5e4-b1fc-46aa-b758-19ceefca91eb")
+	)
+	(wire
+		(pts
 			(xy 228.6 63.5) (xy 228.6 66.04)
 		)
 		(stroke
@@ -1101,6 +1799,36 @@
 			(type default)
 		)
 		(uuid "b1f9d8c9-0cf2-4bfb-8f38-49f089a8aadf")
+	)
+	(wire
+		(pts
+			(xy 208.28 99.06) (xy 208.28 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b24ac662-4f16-46d5-a0af-d16f2c852eca")
+	)
+	(wire
+		(pts
+			(xy 106.68 76.2) (xy 106.68 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b97e778c-0eaa-4d36-bf53-096018f724c1")
+	)
+	(wire
+		(pts
+			(xy 157.48 99.06) (xy 157.48 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bae64dda-5919-427f-b42a-b1fbbc8c9d2a")
 	)
 	(wire
 		(pts
@@ -1114,7 +1842,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 114.3) (xy 165.1 114.3)
+			(xy 154.94 114.3) (xy 165.1 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1154,6 +1882,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 114.3) (xy 208.28 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd81822d-9e1d-47b0-afac-3032d07cfa7f")
+	)
+	(wire
+		(pts
 			(xy 124.46 114.3) (xy 127 114.3)
 		)
 		(stroke
@@ -1184,6 +1922,36 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 76.2) (xy 157.48 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0aae91e-0946-462b-a45a-7502b96f2766")
+	)
+	(wire
+		(pts
+			(xy 55.88 63.5) (xy 55.88 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e459addd-c1ee-4d27-a509-62b8bc60cad2")
+	)
+	(wire
+		(pts
+			(xy 55.88 76.2) (xy 55.88 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5429d0a-da54-461d-8596-72846e2a0956")
+	)
+	(wire
+		(pts
 			(xy 228.6 63.5) (xy 233.68 63.5)
 		)
 		(stroke
@@ -1201,6 +1969,16 @@
 			(type default)
 		)
 		(uuid "e783e6c8-cf7c-471f-8f8e-205c733d4388")
+	)
+	(wire
+		(pts
+			(xy 157.48 63.5) (xy 157.48 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8ad4470-b056-4ba3-ab8b-26801d98e92b")
 	)
 	(wire
 		(pts
@@ -1241,6 +2019,16 @@
 			(type default)
 		)
 		(uuid "f249f8e8-b2de-4604-a722-18c41d10d737")
+	)
+	(wire
+		(pts
+			(xy 208.28 63.5) (xy 208.28 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2d9f233-0c65-41d1-87f3-ba3829aadaf9")
 	)
 	(wire
 		(pts
@@ -1294,7 +2082,7 @@
 	)
 	(hierarchical_label "IN8"
 		(shape input)
-		(at 210.82 114.3 180)
+		(at 205.74 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1305,7 +2093,7 @@
 	)
 	(hierarchical_label "IN4"
 		(shape input)
-		(at 210.82 63.5 180)
+		(at 205.74 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1316,7 +2104,7 @@
 	)
 	(hierarchical_label "IN2"
 		(shape input)
-		(at 109.22 63.5 180)
+		(at 104.14 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1327,7 +2115,7 @@
 	)
 	(hierarchical_label "IN7"
 		(shape input)
-		(at 160.02 114.3 180)
+		(at 154.94 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1360,7 +2148,7 @@
 	)
 	(hierarchical_label "IN6"
 		(shape input)
-		(at 109.22 114.3 180)
+		(at 104.14 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1393,7 +2181,7 @@
 	)
 	(hierarchical_label "IN3"
 		(shape input)
-		(at 160.02 63.5 180)
+		(at 154.94 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1426,7 +2214,7 @@
 	)
 	(hierarchical_label "IN1"
 		(shape input)
-		(at 58.42 63.5 180)
+		(at 53.34 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1459,7 +2247,7 @@
 	)
 	(hierarchical_label "IN5"
 		(shape input)
-		(at 58.42 114.3 180)
+		(at 53.34 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1480,7 +2268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "027fecf6-833d-4ed4-b0da-7e3be917e1e2")
-		(property "Reference" "C63"
+		(property "Reference" "C60"
 			(at 119.38 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1637,11 +2425,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C63")
+					(reference "C60")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C71")
+					(reference "C68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 106.68 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02d7b338-2f6e-4516-83ba-ae0ed303bfb4")
+		(property "Reference" "R56"
+			(at 109.22 104.1399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 132.08 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 132.08 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 132.08 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 132.08 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 132.08 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 132.08 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 132.08 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 109.22 106.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 109.22 109.2199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 132.08 98.425 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "1eb134f6-6be7-4c97-8758-3f37beb8ff54")
+		)
+		(pin "2"
+			(uuid "8f62c113-ee51-4e8c-879b-b3debafae3ec")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R56")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R88")
 					(unit 1)
 				)
 			)
@@ -1659,7 +2618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04ee2076-e726-4e50-81a6-10cb34df5f6b")
-		(property "Reference" "R48"
+		(property "Reference" "R51"
 			(at 180.34 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1819,11 +2778,506 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R48")
+					(reference "R51")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R64")
+					(reference "R83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 55.88 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0ddfbb86-8ebe-4b2f-87ec-08b9d30da434")
+		(property "Reference" "#PWR0192"
+			(at 55.88 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 55.88 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 55.88 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e68221c8-37fa-4c10-ac6a-fa4e5d7f4107")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0192")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0224")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 157.48 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "12934938-dd91-43d7-ae34-435749db7005")
+		(property "Reference" "#PWR0204"
+			(at 157.48 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 157.48 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 157.48 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c2785c1c-ffd1-4e8f-8f82-6302a5199f47")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0204")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0236")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 208.28 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1551334c-66c0-4478-9d54-f51c7886d48c")
+		(property "Reference" "#PWR0198"
+			(at 208.28 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 208.28 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "962908cd-9adf-44e5-b179-e1ade372f850")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0198")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0230")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 157.48 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1af56b85-7d6f-4fbc-a800-252904257995")
+		(property "Reference" "R42"
+			(at 160.02 53.3399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 182.88 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 182.88 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 182.88 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 182.88 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 182.88 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 182.88 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 182.88 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 160.02 55.8799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 160.02 58.4199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 182.88 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "86887eb5-371e-4e10-b5cb-ad0edf482830")
+		)
+		(pin "2"
+			(uuid "f88b9510-31cb-4e1b-949b-ba446190eaba")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R42")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R74")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 157.48 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1b223e5d-c435-4581-a8a4-f5bb1984bd0f")
+		(property "Reference" "#PWR0188"
+			(at 157.48 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 157.48 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 157.48 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "23ddbaa7-9814-4055-b8e0-65491de7a8d9")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0188")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -1841,7 +3295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bc38a4d-e231-479e-82ba-923c22595d1f")
-		(property "Reference" "R50"
+		(property "Reference" "R55"
 			(at 78.74 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2001,11 +3455,92 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R50")
+					(reference "R55")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R66")
+					(reference "R87")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 157.48 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1e2d93c1-1165-44d6-bade-c0880fbc1424")
+		(property "Reference" "#PWR0196"
+			(at 157.48 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "682c6f00-967f-497a-ba79-cb670a341b08")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0196")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -2023,7 +3558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e698806-c3c0-46c0-9c88-0f2182790f8c")
-		(property "Reference" "C68"
+		(property "Reference" "C65"
 			(at 170.18 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2180,11 +3715,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C68")
+					(reference "C65")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C76")
+					(reference "C73")
 					(unit 1)
 				)
 			)
@@ -2201,7 +3736,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "20af359b-698c-48c3-8535-3da00433dbdd")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR0203"
 			(at 127 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -2261,11 +3796,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0137")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0153")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -2283,7 +3818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "251d294d-3b56-416d-92e1-1e352017cc92")
-		(property "Reference" "C62"
+		(property "Reference" "C59"
 			(at 68.58 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2440,11 +3975,263 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C62")
+					(reference "C59")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C70")
+					(reference "C67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 208.28 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "257274aa-ff20-4be9-943d-81db4cff444f")
+		(property "Reference" "#PWR0206"
+			(at 208.28 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 208.28 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 208.28 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d66058e9-219d-493a-9785-adc2173457b4")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0206")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0238")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 55.88 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3975ba67-64bb-448a-a2c5-8475777e0be2")
+		(property "Reference" "R38"
+			(at 58.42 53.3399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 81.28 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 81.28 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 81.28 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 81.28 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 81.28 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 81.28 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 81.28 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 58.42 55.8799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 58.42 58.4199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 81.28 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "cf0cb4d0-6f03-4a5c-895c-fe9e8faa549b")
+		)
+		(pin "2"
+			(uuid "8b777ab4-58f3-4a79-9817-1e74d3faf174")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R38")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -2461,7 +4248,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a297b4c-1bab-4f59-8634-b4cad38a9374")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0187"
 			(at 127 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -2521,11 +4308,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0129")
+					(reference "#PWR0187")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0145")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -2542,7 +4329,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e6491c5-d1f6-4e8d-ba85-755b2ee75b97")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0189"
 			(at 177.8 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -2602,11 +4389,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0130")
+					(reference "#PWR0189")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0146")
+					(reference "#PWR0221")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 55.88 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40912793-7cc9-4767-bd23-1cfc6f375c4a")
+		(property "Reference" "R46"
+			(at 58.42 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 81.28 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 81.28 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 81.28 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 81.28 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 81.28 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 81.28 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 81.28 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 58.42 71.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 58.42 73.6599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 81.28 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "95c8dae8-7709-47ca-8012-edf2093f29d4")
+		)
+		(pin "2"
+			(uuid "3edc7746-68b6-4a3b-869b-f02f6bdc2a0e")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R46")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R78")
 					(unit 1)
 				)
 			)
@@ -2624,7 +4582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40cf5056-cf92-4b75-8f09-856b43f939f9")
-		(property "Reference" "R51"
+		(property "Reference" "R57"
 			(at 129.54 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2784,11 +4742,173 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R51")
+					(reference "R57")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R67")
+					(reference "R89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 208.28 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "50ade98b-1a56-48fe-809d-71750d8f98cd")
+		(property "Reference" "#PWR0190"
+			(at 208.28 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 208.28 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 208.28 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0a621962-5686-4fd7-95cb-ca19424c5828")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0190")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0222")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 208.28 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "52ef8c59-44ed-497e-833b-61995b47b008")
+		(property "Reference" "#PWR0214"
+			(at 208.28 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 208.28 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ce1c8acb-3e74-4b76-8616-968586454320")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0214")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0246")
 					(unit 1)
 				)
 			)
@@ -2806,7 +4926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "584b2d93-c700-485c-96b0-0205d40ed8f6")
-		(property "Reference" "R56"
+		(property "Reference" "R67"
 			(at 180.34 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2966,11 +5086,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R56")
+					(reference "R67")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R72")
+					(reference "R99")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 106.68 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "591a3e27-c6f5-4384-9ade-097958017ed2")
+		(property "Reference" "R64"
+			(at 109.22 119.3799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 132.08 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 132.08 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 132.08 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 132.08 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 132.08 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 132.08 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 109.22 121.9199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 109.22 124.4599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 132.08 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "be9f0e72-a9ce-43ab-abe1-4f99e2d09822")
+		)
+		(pin "2"
+			(uuid "c6bef92d-e0af-4abd-b67b-0573c268246c")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R64")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R96")
 					(unit 1)
 				)
 			)
@@ -2988,7 +5279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "599406ec-b070-4ef4-aad3-ad113030dc4b")
-		(property "Reference" "R55"
+		(property "Reference" "R65"
 			(at 129.54 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3148,11 +5439,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R55")
+					(reference "R65")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R71")
+					(reference "R97")
 					(unit 1)
 				)
 			)
@@ -3170,7 +5461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "602fd66f-a638-4267-b0a4-2e9eeea59903")
-		(property "Reference" "R57"
+		(property "Reference" "R69"
 			(at 231.14 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3330,11 +5621,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R57")
+					(reference "R69")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R73")
+					(reference "R101")
 					(unit 1)
 				)
 			)
@@ -3351,7 +5642,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66e2bb24-77fc-458e-b7d2-ba4850430246")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0195"
 			(at 127 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3411,11 +5702,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0133")
+					(reference "#PWR0195")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0149")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -3432,7 +5723,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68da7c17-00bc-4a1b-8ae8-3ca10241550f")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR0209"
 			(at 76.2 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -3492,11 +5783,434 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0140")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0156")
+					(reference "#PWR0241")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 55.88 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "72f28af9-2f82-4a21-845a-ce52a33fdfbd")
+		(property "Reference" "#PWR0208"
+			(at 55.88 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 55.88 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 55.88 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "be1f40c1-744d-49ec-b21d-2e5a7eb03ea9")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0208")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0240")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 55.88 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73c577ce-0915-46d3-8582-3a19941c2dba")
+		(property "Reference" "R62"
+			(at 58.42 119.3799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 81.28 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 81.28 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 81.28 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 81.28 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 81.28 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 81.28 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 81.28 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 58.42 121.9199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 58.42 124.4599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 81.28 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "7d13ff98-1db6-4614-ac64-70a9a8797e0d")
+		)
+		(pin "2"
+			(uuid "14dce79b-f5e1-40ce-8f9a-db3adcd714cd")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R62")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 208.28 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "751b3bc4-356e-4a0d-aef9-11ee3ba923cd")
+		(property "Reference" "R68"
+			(at 210.82 119.3799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 233.68 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 233.68 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 233.68 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 233.68 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 233.68 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 233.68 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 233.68 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 210.82 121.9199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 210.82 124.4599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 233.68 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "2d706811-39f0-43e6-8641-80f926bcdb31")
+		)
+		(pin "2"
+			(uuid "c8aecd8f-d7c6-4337-9703-68c1aaa12e4c")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R68")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R100")
 					(unit 1)
 				)
 			)
@@ -3513,7 +6227,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "780f94cc-b8c8-4a3e-ac3f-c91ff819949d")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR0199"
 			(at 228.6 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3573,11 +6287,92 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0135")
+					(reference "#PWR0199")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0151")
+					(reference "#PWR0231")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 55.88 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7bb8e085-3d12-4fe7-8465-10b2d1133280")
+		(property "Reference" "#PWR0184"
+			(at 55.88 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 55.88 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 55.88 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b7178c21-8bcb-46ea-af17-6bf62a2ffb01")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0184")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -3595,7 +6390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "821cbea5-7343-42ac-98d7-503f65d4b3c4")
-		(property "Reference" "R44"
+		(property "Reference" "R43"
 			(at 180.34 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3755,11 +6550,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R44")
+					(reference "R43")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R60")
+					(reference "R75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 106.68 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "857016f2-bf82-4859-a53a-740e81f3449c")
+		(property "Reference" "R40"
+			(at 109.22 53.3399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 132.08 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 132.08 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 132.08 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 132.08 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 132.08 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 132.08 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 132.08 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 109.22 55.8799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 109.22 58.4199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 132.08 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "a7f23687-dff2-44ff-a061-1e5ff7e8f767")
+		)
+		(pin "2"
+			(uuid "3296bd71-27cc-48f1-b10c-0a801305f917")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R40")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R72")
 					(unit 1)
 				)
 			)
@@ -3777,7 +6743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86f17e8e-1182-4696-85c8-f9f5a5362c48")
-		(property "Reference" "C66"
+		(property "Reference" "C63"
 			(at 68.58 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3934,11 +6900,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C66")
+					(reference "C63")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C74")
+					(reference "C71")
 					(unit 1)
 				)
 			)
@@ -3956,7 +6922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "882ba1c3-9c98-4337-b9e1-11fae61b617d")
-		(property "Reference" "C65"
+		(property "Reference" "C62"
 			(at 220.98 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4113,11 +7079,92 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C65")
+					(reference "C62")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C73")
+					(reference "C70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 55.88 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8ae3e5d5-52fc-4a7c-859b-93b8f4a89781")
+		(property "Reference" "#PWR0200"
+			(at 55.88 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 55.88 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 55.88 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae71cdce-d9aa-4d20-b4d2-e143a98e5cea")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0200")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -4134,7 +7181,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8edaa3d5-74a4-466a-b1cd-e99bd6277935")
-		(property "Reference" "#PWR0134"
+		(property "Reference" "#PWR0197"
 			(at 177.8 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -4194,11 +7241,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0134")
+					(reference "#PWR0197")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0150")
+					(reference "#PWR0229")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 106.68 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f59b92b-57b5-4327-82a6-88f09e4ad972")
+		(property "Reference" "R48"
+			(at 109.22 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 132.08 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 132.08 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 132.08 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 132.08 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 132.08 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 132.08 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 132.08 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 109.22 71.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 109.22 73.6599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 132.08 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "e48ac99e-51a6-48e8-8ef2-7d2eba3e996b")
+		)
+		(pin "2"
+			(uuid "07b07862-6906-4445-b58c-fddf6c2feb38")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R48")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R80")
 					(unit 1)
 				)
 			)
@@ -4216,7 +7434,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f6cda04-06e2-4175-80cb-b054554da56f")
-		(property "Reference" "R43"
+		(property "Reference" "R41"
 			(at 129.54 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4376,11 +7594,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R43")
+					(reference "R41")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R59")
+					(reference "R73")
 					(unit 1)
 				)
 			)
@@ -4398,7 +7616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92626885-e637-43a6-8d5d-8c05e02e45ca")
-		(property "Reference" "R47"
+		(property "Reference" "R49"
 			(at 129.54 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4558,11 +7776,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R47")
+					(reference "R49")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R63")
+					(reference "R81")
 					(unit 1)
 				)
 			)
@@ -4579,7 +7797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97f668dc-d8bd-4138-b62f-74041e7b561c")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR0215"
 			(at 228.6 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -4639,11 +7857,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0143")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0159")
+					(reference "#PWR0247")
 					(unit 1)
 				)
 			)
@@ -4660,7 +7878,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a486feb0-bb74-4fcb-a953-0e1614059c68")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR0207"
 			(at 228.6 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4720,11 +7938,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0139")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0155")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 			)
@@ -4741,7 +7959,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a506cf22-cbef-4c63-9872-7297f5e1ffd1")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0191"
 			(at 228.6 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4801,11 +8019,92 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0131")
+					(reference "#PWR0191")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0147")
+					(reference "#PWR0223")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a5275fff-37f6-4126-8127-de999a49554d")
+		(property "Reference" "#PWR0194"
+			(at 106.68 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b0f1bf12-4b19-4296-806f-fb1365eb02d2")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0194")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -4822,7 +8121,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a58f1a4a-486b-4265-83ad-15121618abbb")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR0211"
 			(at 127 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -4882,11 +8181,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0141")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0157")
+					(reference "#PWR0243")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 55.88 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a5d90851-5b5d-47fb-ab7c-456e803c4a5d")
+		(property "Reference" "R54"
+			(at 58.42 104.1399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 81.28 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 81.28 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 81.28 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 55.88 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 81.28 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 81.28 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 81.28 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 81.28 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 58.42 106.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 58.42 109.2199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 81.28 98.425 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "069dab7e-7140-4df6-b958-92e67496d7ca")
+		)
+		(pin "2"
+			(uuid "41a4c553-c33b-4070-b61b-d3badbdf4a4b")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R54")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R86")
 					(unit 1)
 				)
 			)
@@ -4904,7 +8374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8fdc651-7bbc-423b-89a2-0d324d8a3150")
-		(property "Reference" "R53"
+		(property "Reference" "R61"
 			(at 231.14 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5064,11 +8534,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R53")
+					(reference "R61")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R69")
+					(reference "R93")
 					(unit 1)
 				)
 			)
@@ -5086,7 +8556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac4cef4f-5c2c-4b57-b24b-7d6be0977367")
-		(property "Reference" "C67"
+		(property "Reference" "C64"
 			(at 119.38 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5243,11 +8713,434 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C67")
+					(reference "C64")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C75")
+					(reference "C72")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 208.28 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "acc841c2-f5d1-416d-87a5-5acca49e6cda")
+		(property "Reference" "R44"
+			(at 210.82 53.3399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 233.68 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 233.68 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 233.68 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 233.68 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 233.68 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 233.68 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 233.68 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 210.82 55.8799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 210.82 58.4199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 233.68 47.625 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "d7f673fb-c6ea-42d3-907c-34250fd671bb")
+		)
+		(pin "2"
+			(uuid "cc45e9bb-42b1-45b7-9b69-fde4970b8423")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R44")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R76")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 208.28 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae33a7cf-fc4a-4af5-b90b-040701d5e9ff")
+		(property "Reference" "R52"
+			(at 210.82 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 233.68 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 233.68 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 233.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 233.68 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 233.68 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 233.68 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 233.68 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 210.82 71.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 210.82 73.6599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 233.68 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "b2f03d46-251a-44f4-8680-4013f101c457")
+		)
+		(pin "2"
+			(uuid "cb9416e3-4242-4797-b0ea-1b2171ac7ebb")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R52")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R84")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 157.48 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "bd456cec-4b7f-4328-bc23-fe3bb1764512")
+		(property "Reference" "#PWR0212"
+			(at 157.48 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.48 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "19a494a7-50d6-46e9-854a-912c2d1bc498")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0212")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -5264,7 +9157,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c670d584-c0c0-4fd3-8fa0-6bac4cf03181")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR0201"
 			(at 76.2 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5324,11 +9217,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0136")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0152")
+					(reference "#PWR0233")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 157.48 121.92 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c78c4c50-dbbd-43fe-8ad6-a0722d92b638")
+		(property "Reference" "R66"
+			(at 160.02 119.3799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 182.88 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 182.88 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 182.88 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 182.88 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 182.88 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 182.88 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 182.88 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 160.02 121.9199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 160.02 124.4599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 182.88 113.665 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "eddf5ebb-427d-4f7d-830b-990060385884")
+		)
+		(pin "2"
+			(uuid "1a234c61-7228-4df4-b6e7-11ca24e03392")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R66")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R98")
 					(unit 1)
 				)
 			)
@@ -5510,7 +9574,7 @@
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R61")
+					(reference "R77")
 					(unit 1)
 				)
 			)
@@ -5528,7 +9592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca3de30b-5fce-4667-aaa0-b38d6d5825bc")
-		(property "Reference" "R52"
+		(property "Reference" "R59"
 			(at 180.34 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5688,11 +9752,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R52")
+					(reference "R59")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R68")
+					(reference "R91")
 					(unit 1)
 				)
 			)
@@ -5709,7 +9773,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cc087484-8942-40f5-88b2-10c9750ceddc")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0185"
 			(at 76.2 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -5769,11 +9833,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0128")
+					(reference "#PWR0185")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0144")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -5791,7 +9855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce744e96-bdf4-4a43-8059-c9ec0fbd15f8")
-		(property "Reference" "R54"
+		(property "Reference" "R63"
 			(at 78.74 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5951,11 +10015,263 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R54")
+					(reference "R63")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R70")
+					(reference "R95")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 106.68 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d7f663f1-5b2c-4867-848a-c3f7b5fc8cfa")
+		(property "Reference" "#PWR0186"
+			(at 106.68 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 106.68 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 106.68 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a902f45b-440f-4889-bbfb-10c7a67d2c99")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0186")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0218")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 208.28 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db7dd27c-3938-4be5-b03a-a12a71cac1fc")
+		(property "Reference" "R60"
+			(at 210.82 104.1399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 233.68 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 233.68 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 233.68 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 208.28 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 233.68 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 233.68 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 233.68 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 233.68 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 210.82 106.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 210.82 109.2199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 233.68 98.425 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "4f9c0a2b-a553-43d3-881d-6ab8a9ddb45b")
+		)
+		(pin "2"
+			(uuid "e2addb8a-05d0-4602-b58b-cd171dea1ee8")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R60")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R92")
 					(unit 1)
 				)
 			)
@@ -5973,7 +10289,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e464d07b-935c-4b3e-b0ab-3fec2332a807")
-		(property "Reference" "R49"
+		(property "Reference" "R53"
 			(at 231.14 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6133,11 +10449,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R49")
+					(reference "R53")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R65")
+					(reference "R85")
 					(unit 1)
 				)
 			)
@@ -6155,7 +10471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e46ccc09-f10a-42bb-b2e5-e539f2416edb")
-		(property "Reference" "R46"
+		(property "Reference" "R47"
 			(at 78.74 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6315,11 +10631,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R46")
+					(reference "R47")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R62")
+					(reference "R79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_5k6")
+		(at 157.48 106.68 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4b50b69-4959-48aa-bcf2-04b41c5ba357")
+		(property "Reference" "R58"
+			(at 160.02 104.1399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_5k6"
+			(at 182.88 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 182.88 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 182.88 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 182.88 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F5K6"
+			(at 182.88 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 182.88 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F5K6"
+			(at 182.88 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "5k6"
+			(at 160.02 106.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 160.02 109.2199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 182.88 98.425 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "9e8333e3-eefd-43d0-8343-23420c123f65")
+		)
+		(pin "2"
+			(uuid "519f2a53-e197-4896-b792-def2a39af2ea")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R58")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R90")
 					(unit 1)
 				)
 			)
@@ -6336,7 +10823,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e52b616c-b805-4289-bff9-92cd106b5c4f")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR0213"
 			(at 177.8 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -6396,11 +10883,173 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0142")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0158")
+					(reference "#PWR0245")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e728af9e-c61b-449e-ae01-3e04e60c5c0c")
+		(property "Reference" "#PWR0210"
+			(at 106.68 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "76d8206a-e5fa-4483-9800-fb8004cced66")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0210")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0242")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 106.68 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f16d6ecf-6dec-4d86-b504-cdc6fe6c2d84")
+		(property "Reference" "#PWR0202"
+			(at 106.68 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 106.68 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 106.68 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3f4462cd-c0a1-4fd7-a83b-2ef879546202")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "#PWR0202")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -6418,7 +11067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8b5407f-99eb-4578-9b15-6273a52355a5")
-		(property "Reference" "C69"
+		(property "Reference" "C66"
 			(at 220.98 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6575,11 +11224,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C69")
+					(reference "C66")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C77")
+					(reference "C74")
 					(unit 1)
 				)
 			)
@@ -6597,7 +11246,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8bc30ef-3970-4674-9230-2a71db3c48a4")
-		(property "Reference" "R42"
+		(property "Reference" "R39"
 			(at 78.74 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6757,11 +11406,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "R42")
+					(reference "R39")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "R58")
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -6778,7 +11427,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9414577-0294-4d59-9337-24fdb5e5e129")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0193"
 			(at 76.2 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -6838,11 +11487,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0132")
+					(reference "#PWR0193")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0148")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -6860,7 +11509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc68e5ce-61c9-4b78-b27c-4a75a68cc169")
-		(property "Reference" "C64"
+		(property "Reference" "C61"
 			(at 170.18 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7017,11 +11666,182 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "C64")
+					(reference "C61")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "C72")
+					(reference "C69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistors0603:R0603_3k6")
+		(at 157.48 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fea261bb-d13d-42f1-b22d-b53517c7ea77")
+		(property "Reference" "R50"
+			(at 160.02 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R0603_3k6"
+			(at 182.88 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 182.88 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/2/418/5/NG_DS_9-1773463-9_A-1358566.pdf"
+			(at 182.88 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 182.88 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "MPN" "CRGP0603F3K6"
+			(at 182.88 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 182.88 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SPN" "279-CRGP0603F3K6"
+			(at 182.88 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "DisplayValue" "3k6"
+			(at 160.02 71.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Package" "R0603"
+			(at 160.02 73.6599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 182.88 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "c0433f96-7fd2-48cf-b1a4-55fd71548491")
+		)
+		(pin "2"
+			(uuid "7f40da2c-aa83-4cda-b2f8-5e2eddd83b24")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
+					(reference "R50")
+					(unit 1)
+				)
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
+					(reference "R82")
 					(unit 1)
 				)
 			)
@@ -7038,7 +11858,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff0636e2-2aed-4111-a008-9a7b855c890a")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR0205"
 			(at 177.8 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -7098,11 +11918,11 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/0b709c93-a61b-4029-8a15-34e0063ae79d"
-					(reference "#PWR0138")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/d805971e-2ed0-4445-9008-7c8e9c8a72dc/2ca7d19e-fc81-4dbc-8457-6e919648a8fc"
-					(reference "#PWR0154")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
