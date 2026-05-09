@@ -717,7 +717,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Audio:AS03208MS-3-R"
+		(symbol "Transducers:AS03208MS-3-R"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5655,7 +5655,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Audio:AS03208MS-3-R")
+		(lib_id "Transducers:AS03208MS-3-R")
 		(at 187.96 88.9 0)
 		(unit 1)
 		(body_style 1)

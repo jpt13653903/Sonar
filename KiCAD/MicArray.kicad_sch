@@ -618,7 +618,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Sensors:CMEJ-0415-42-P"
+		(symbol "Transducers:CMEJ-0415-42-P"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6611,7 +6611,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -6922,7 +6922,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -7598,7 +7598,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -7852,7 +7852,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -8106,7 +8106,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -8852,7 +8852,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -9618,7 +9618,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -9929,7 +9929,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -10106,7 +10106,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -10417,7 +10417,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -10761,7 +10761,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -10938,7 +10938,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -11115,7 +11115,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -11734,7 +11734,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -11911,7 +11911,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -12255,7 +12255,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -13634,7 +13634,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -13811,7 +13811,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -14199,7 +14199,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -14376,7 +14376,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -14630,7 +14630,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -14884,7 +14884,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -15349,7 +15349,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -16148,7 +16148,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -16402,7 +16402,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -16656,7 +16656,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -16833,7 +16833,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -17010,7 +17010,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -17264,7 +17264,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -17441,7 +17441,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -18194,7 +18194,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -18371,7 +18371,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -18913,7 +18913,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -19090,7 +19090,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -20258,7 +20258,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -21145,7 +21145,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -21700,7 +21700,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -22145,7 +22145,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -22322,7 +22322,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -23075,7 +23075,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -23329,7 +23329,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -23640,7 +23640,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 436.88 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -23894,7 +23894,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -24071,7 +24071,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -24415,7 +24415,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -24726,7 +24726,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -24903,7 +24903,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -25080,7 +25080,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -25947,7 +25947,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -26201,7 +26201,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 388.62 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -26378,7 +26378,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 195.58 231.14 0)
 		(mirror y)
 		(unit 1)
@@ -27131,7 +27131,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -27519,7 +27519,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -27863,7 +27863,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 205.74 0)
 		(mirror y)
 		(unit 1)
@@ -28644,7 +28644,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 104.14 0)
 		(mirror y)
 		(unit 1)
@@ -28821,7 +28821,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -28998,7 +28998,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 99.06 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -29309,7 +29309,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -29965,7 +29965,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 292.1 154.94 0)
 		(mirror y)
 		(unit 1)
@@ -30353,7 +30353,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 243.84 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -30875,7 +30875,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 256.54 0)
 		(mirror y)
 		(unit 1)
@@ -31487,7 +31487,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 129.54 0)
 		(mirror y)
 		(unit 1)
@@ -33264,7 +33264,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 340.36 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -33441,7 +33441,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Sensors:CMEJ-0415-42-P")
+		(lib_id "Transducers:CMEJ-0415-42-P")
 		(at 147.32 154.94 0)
 		(mirror y)
 		(unit 1)
