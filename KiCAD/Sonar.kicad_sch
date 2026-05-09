@@ -801,7 +801,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 170.18) (xy 78.74 167.64)
+			(xy 101.6 170.18) (xy 101.6 167.64)
 		)
 		(stroke
 			(width 0)
@@ -821,7 +821,17 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 170.18) (xy 104.14 167.64)
+			(xy 88.9 172.72) (xy 88.9 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1952bfe2-4766-4c3a-8fa7-bfbfd799f410")
+	)
+	(wire
+		(pts
+			(xy 127 170.18) (xy 127 167.64)
 		)
 		(stroke
 			(width 0)
@@ -901,7 +911,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 170.18) (xy 91.44 167.64)
+			(xy 114.3 170.18) (xy 114.3 167.64)
 		)
 		(stroke
 			(width 0)
@@ -998,6 +1008,16 @@
 			(type default)
 		)
 		(uuid "74b15622-14d8-4045-8cb8-014348c25e16")
+	)
+	(wire
+		(pts
+			(xy 76.2 172.72) (xy 76.2 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86d1b4c3-8b13-4507-bf2d-6e226109470a")
 	)
 	(wire
 		(pts
@@ -1427,6 +1447,83 @@
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
 					(reference "F4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 76.2 172.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1477d5d8-9759-48c2-8bd6-e033f78343a8")
+		(property "Reference" "#PWR08"
+			(at 76.2 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 76.2 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.2 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b268b5ab-c82f-4d75-8317-4c0dd2530c98")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -1983,7 +2080,7 @@
 	)
 	(symbol
 		(lib_id "Connectors:Keystone_5011_Black")
-		(at 104.14 167.64 0)
+		(at 127 167.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1994,7 +2091,7 @@
 		(fields_autoplaced yes)
 		(uuid "5def9ba7-73d9-4954-b373-c33e65380d56")
 		(property "Reference" "TP3"
-			(at 106.68 163.0679 0)
+			(at 129.54 163.0679 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2005,7 +2102,7 @@
 			)
 		)
 		(property "Value" "Keystone_5011_Black"
-			(at 118.745 165.1 0)
+			(at 141.605 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2017,7 +2114,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Keystone_5010-5014_Multipurpose"
-			(at 118.745 167.64 0)
+			(at 141.605 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2029,7 +2126,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=1320"
-			(at 117.602 176.276 0)
+			(at 140.462 176.276 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2041,7 +2138,7 @@
 			)
 		)
 		(property "Description" "Testpoint Loop, Black"
-			(at 126.492 169.926 0)
+			(at 149.352 169.926 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2052,7 +2149,7 @@
 			)
 		)
 		(property "Package" "Black"
-			(at 106.68 165.6079 0)
+			(at 129.54 165.6079 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2063,7 +2160,7 @@
 			)
 		)
 		(property "BOM" "Yes"
-			(at 118.745 162.56 0)
+			(at 141.605 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2075,7 +2172,7 @@
 			)
 		)
 		(property "Manufacturer" "Keystone"
-			(at 121.666 173.99 0)
+			(at 144.526 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2086,7 +2183,7 @@
 			)
 		)
 		(property "MPN" "5011"
-			(at 128.524 174.244 0)
+			(at 151.384 174.244 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2097,7 +2194,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 120.65 171.704 0)
+			(at 143.51 171.704 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2108,7 +2205,7 @@
 			)
 		)
 		(property "SPN" "534-5011"
-			(at 129.54 171.958 0)
+			(at 152.4 171.958 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2119,7 +2216,7 @@
 			)
 		)
 		(property "ManPartNo" ""
-			(at 104.14 167.64 0)
+			(at 127 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2142,8 +2239,124 @@
 		)
 	)
 	(symbol
+		(lib_id "Connectors:MountingHole")
+		(at 88.9 165.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62ef0574-fe77-469c-9a01-48023feece9a")
+		(property "Reference" "H6"
+			(at 91.44 163.8299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 82.55 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 101.6 167.005 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "3.5 mm"
+			(at 91.44 166.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "No"
+			(at 101.6 164.465 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 88.9 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e34cb446-4d8b-4d83-a69f-47067cf56111")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connectors:Keystone_5011_Black")
-		(at 78.74 167.64 0)
+		(at 101.6 167.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2154,7 +2367,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a70dfa6-b346-40c9-a2d2-d3f1fb8afcc5")
 		(property "Reference" "TP1"
-			(at 81.28 163.0679 0)
+			(at 104.14 163.0679 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2165,7 +2378,7 @@
 			)
 		)
 		(property "Value" "Keystone_5011_Black"
-			(at 93.345 165.1 0)
+			(at 116.205 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2177,7 +2390,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Keystone_5010-5014_Multipurpose"
-			(at 93.345 167.64 0)
+			(at 116.205 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2189,7 +2402,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=1320"
-			(at 92.202 176.276 0)
+			(at 115.062 176.276 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2201,7 +2414,7 @@
 			)
 		)
 		(property "Description" "Testpoint Loop, Black"
-			(at 101.092 169.926 0)
+			(at 123.952 169.926 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2212,7 +2425,7 @@
 			)
 		)
 		(property "Package" "Black"
-			(at 81.28 165.6079 0)
+			(at 104.14 165.6079 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2223,7 +2436,7 @@
 			)
 		)
 		(property "BOM" "Yes"
-			(at 93.345 162.56 0)
+			(at 116.205 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2235,7 +2448,7 @@
 			)
 		)
 		(property "Manufacturer" "Keystone"
-			(at 96.266 173.99 0)
+			(at 119.126 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2246,7 +2459,7 @@
 			)
 		)
 		(property "MPN" "5011"
-			(at 103.124 174.244 0)
+			(at 125.984 174.244 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2257,7 +2470,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 95.25 171.704 0)
+			(at 118.11 171.704 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2268,7 +2481,7 @@
 			)
 		)
 		(property "SPN" "534-5011"
-			(at 104.14 171.958 0)
+			(at 127 171.958 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2279,7 +2492,7 @@
 			)
 		)
 		(property "ManPartNo" ""
-			(at 78.74 167.64 0)
+			(at 101.6 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2303,7 +2516,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 104.14 170.18 0)
+		(at 88.9 172.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2311,9 +2524,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "7c31a535-da62-4494-8628-fb218a60bb77")
-		(property "Reference" "#PWR03"
-			(at 104.14 176.53 0)
+		(uuid "7bb00e58-9933-484b-8e05-8edb8c8bd00d")
+		(property "Reference" "#PWR09"
+			(at 88.9 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2324,7 +2537,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 104.14 173.99 0)
+			(at 88.9 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2334,7 +2547,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 170.18 0)
+			(at 88.9 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2345,7 +2558,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 170.18 0)
+			(at 88.9 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2356,7 +2569,84 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 170.18 0)
+			(at 88.9 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "55759422-c807-45eb-88bd-fa13dde5886d")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 127 170.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7c31a535-da62-4494-8628-fb218a60bb77")
+		(property "Reference" "#PWR03"
+			(at 127 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 127 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2380,7 +2670,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 170.18 0)
+		(at 101.6 170.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2390,7 +2680,7 @@
 		(dnp no)
 		(uuid "844c706d-9512-474f-9e45-0a87008bd62b")
 		(property "Reference" "#PWR01"
-			(at 78.74 176.53 0)
+			(at 101.6 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2401,7 +2691,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 173.99 0)
+			(at 101.6 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2411,7 +2701,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 170.18 0)
+			(at 101.6 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2422,7 +2712,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 170.18 0)
+			(at 101.6 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2433,7 +2723,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 170.18 0)
+			(at 101.6 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2450,6 +2740,122 @@
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:MountingHole")
+		(at 76.2 165.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86e2928a-f1bc-4be0-8354-79c2d721ff5d")
+		(property "Reference" "H5"
+			(at 78.74 163.8299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 69.85 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via"
+			(at 88.9 167.005 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" ""
+			(at 76.2 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "3.5 mm"
+			(at 78.74 166.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "No"
+			(at 88.9 164.465 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "ManPartNo" ""
+			(at 76.2 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1e7820fd-051a-4937-b193-897128572546")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -2861,7 +3267,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 91.44 170.18 0)
+		(at 114.3 170.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2871,7 +3277,7 @@
 		(dnp no)
 		(uuid "d49cc61e-78a1-454d-ad47-4ad453e5564c")
 		(property "Reference" "#PWR02"
-			(at 91.44 176.53 0)
+			(at 114.3 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2882,7 +3288,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 173.99 0)
+			(at 114.3 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2892,7 +3298,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 170.18 0)
+			(at 114.3 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2903,7 +3309,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 170.18 0)
+			(at 114.3 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2914,7 +3320,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 91.44 170.18 0)
+			(at 114.3 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2938,7 +3344,7 @@
 	)
 	(symbol
 		(lib_id "Connectors:Keystone_5011_Black")
-		(at 91.44 167.64 0)
+		(at 114.3 167.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2949,7 +3355,7 @@
 		(fields_autoplaced yes)
 		(uuid "f044ec1a-f025-42c1-ad8d-7dda20439cca")
 		(property "Reference" "TP2"
-			(at 93.98 163.0679 0)
+			(at 116.84 163.0679 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2960,7 +3366,7 @@
 			)
 		)
 		(property "Value" "Keystone_5011_Black"
-			(at 106.045 165.1 0)
+			(at 128.905 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2972,7 +3378,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Keystone_5010-5014_Multipurpose"
-			(at 106.045 167.64 0)
+			(at 128.905 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2984,7 +3390,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.keyelco.com/product-pdf.cfm?p=1320"
-			(at 104.902 176.276 0)
+			(at 127.762 176.276 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2996,7 +3402,7 @@
 			)
 		)
 		(property "Description" "Testpoint Loop, Black"
-			(at 113.792 169.926 0)
+			(at 136.652 169.926 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3007,7 +3413,7 @@
 			)
 		)
 		(property "Package" "Black"
-			(at 93.98 165.6079 0)
+			(at 116.84 165.6079 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3018,7 +3424,7 @@
 			)
 		)
 		(property "BOM" "Yes"
-			(at 106.045 162.56 0)
+			(at 128.905 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3030,7 +3436,7 @@
 			)
 		)
 		(property "Manufacturer" "Keystone"
-			(at 108.966 173.99 0)
+			(at 131.826 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3041,7 +3447,7 @@
 			)
 		)
 		(property "MPN" "5011"
-			(at 115.824 174.244 0)
+			(at 138.684 174.244 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3052,7 +3458,7 @@
 			)
 		)
 		(property "Supplier" "Mouser"
-			(at 107.95 171.704 0)
+			(at 130.81 171.704 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3063,7 +3469,7 @@
 			)
 		)
 		(property "SPN" "534-5011"
-			(at 116.84 171.958 0)
+			(at 139.7 171.958 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3074,7 +3480,7 @@
 			)
 		)
 		(property "ManPartNo" ""
-			(at 91.44 167.64 0)
+			(at 114.3 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3107,7 +3513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2aeb517-4f2b-4799-9f5a-189adfbe3141")
-		(property "Reference" "H5"
+		(property "Reference" "H7"
 			(at 162.56 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3191,7 +3597,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(reference "H5")
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -3208,7 +3614,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fe96822a-dd7d-49c5-9afc-fd8a5c3ef2f6")
-		(property "Reference" "H6"
+		(property "Reference" "H8"
 			(at 162.56 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3292,7 +3698,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98"
-					(reference "H6")
+					(reference "H8")
 					(unit 1)
 				)
 			)

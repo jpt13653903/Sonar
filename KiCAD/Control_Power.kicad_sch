@@ -1423,6 +1423,201 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connectors:Keystone_5010_Red"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Keystone_5010_Red"
+				(at 14.605 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "TestPoint:TestPoint_Keystone_5010-5014_Multipurpose"
+				(at 14.605 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Datasheet" "https://www.mouser.co.za/datasheet/3/201/1/5010.pdf"
+				(at 13.462 -8.636 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Description" "Testpoint Loop, Red"
+				(at 22.352 -2.286 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Package" "Red"
+				(at 1.27 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "BOM" "Yes"
+				(at 14.605 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Manufacturer" "Keystone"
+				(at 17.526 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "5010"
+				(at 24.384 -6.604 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 16.51 -4.064 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "SPN" "534-5010"
+				(at 25.4 -4.318 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Keystone_5010_Red_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Keystone_5010_Red_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Resistors0603:R0603_1k0"
 			(pin_numbers
 				(hide yes)
@@ -2023,6 +2218,12 @@
 		)
 	)
 	(junction
+		(at 109.22 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f2812a8-d786-4bd7-b98a-6abde502e74d")
+	)
+	(junction
 		(at 185.42 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2197,6 +2398,16 @@
 			(type default)
 		)
 		(uuid "3de330f4-55a6-4412-8ad8-a2ff72915cea")
+	)
+	(wire
+		(pts
+			(xy 109.22 66.04) (xy 139.7 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "413d0900-6fa0-424e-a85b-ca98726036fb")
 	)
 	(wire
 		(pts
@@ -2530,7 +2741,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 66.04) (xy 139.7 66.04)
+			(xy 106.68 66.04) (xy 109.22 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3164,7 +3375,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18a061d3-c379-4e89-a965-2719c228a597")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR012"
 			(at 185.42 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3224,7 +3435,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR010")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -3637,7 +3848,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2cfb634e-4b0b-49f7-b9b9-d07216e0fe40")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR011"
 			(at 173.99 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3697,7 +3908,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR09")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -3715,7 +3926,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "58420b23-91f8-43a7-a494-b4687e9f02c1")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR018"
 			(at 120.65 127 0)
 			(hide yes)
 			(show_name no)
@@ -3775,7 +3986,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR016")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -3794,7 +4005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ea5f6ed-e289-4e3e-9e62-f4bb82e38b31")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR023"
 			(at 130.81 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -3855,7 +4066,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR021")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -3873,7 +4084,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "623be3f9-38ac-4f33-82c1-c35d688d765b")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR015"
 			(at 120.65 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -3933,7 +4144,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR013")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -3951,7 +4162,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6248b007-a893-4e45-9874-183b60e3ecb7")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR021"
 			(at 120.65 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4011,7 +4222,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR019")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -4317,7 +4528,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7889db0e-d946-45e0-9d57-9ec86fac2eac")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR017"
 			(at 120.65 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4377,7 +4588,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR015")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -4394,7 +4605,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7cec749e-65e2-473f-aa7a-eca4d5c01883")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR014"
 			(at 173.99 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4454,7 +4665,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR012")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -4473,7 +4684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7dd88ea-0d9a-4d97-8115-b1920b9de261")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR022"
 			(at 130.81 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -4534,7 +4745,156 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR020")
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:Keystone_5010_Red")
+		(at 109.22 66.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd41224f-3f85-4510-aac0-602b90c509cc")
+		(property "Reference" "TP4"
+			(at 111.76 61.4679 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Keystone_5010_Red"
+			(at 123.825 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5010-5014_Multipurpose"
+			(at 123.825 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.za/datasheet/3/201/1/5010.pdf"
+			(at 122.682 74.676 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Testpoint Loop, Red"
+			(at 131.572 68.326 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "Red"
+			(at 111.76 64.0079 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "BOM" "Yes"
+			(at 123.825 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "Keystone"
+			(at 126.746 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "5010"
+			(at 133.604 72.644 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "Mouser"
+			(at 125.73 70.104 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SPN" "534-5010"
+			(at 134.62 70.358 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "79368024-de3d-4b3a-8dc6-0772676c6ca5")
+		)
+		(instances
+			(project "Sonar"
+				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -4552,7 +4912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dcb26a58-d641-4433-a740-58f4f4efea23")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR019"
 			(at 120.65 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -4612,7 +4972,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR017")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -4630,7 +4990,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0c8fea0-e1fc-4c6e-a39d-65fc30aa99a4")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR020"
 			(at 120.65 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -4690,7 +5050,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR018")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -4708,7 +5068,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f71d9175-3b56-4b31-b848-eea166ba91cf")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR013"
 			(at 123.19 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4769,7 +5129,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR011")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -4787,7 +5147,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa57bd33-b183-4839-9189-9a987b8a1362")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR016"
 			(at 120.65 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -4847,7 +5207,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR014")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -4855,7 +5215,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 119.38 66.04 90)
+		(at 106.68 66.04 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4865,8 +5225,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fea01115-396e-41d5-aec3-0a9e752ee85a")
-		(property "Reference" "#PWR08"
-			(at 123.19 66.04 0)
+		(property "Reference" "#PWR010"
+			(at 110.49 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4877,7 +5237,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 115.57 66.0399 90)
+			(at 102.87 66.0399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4888,7 +5248,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 119.38 66.04 0)
+			(at 106.68 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4899,7 +5259,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 66.04 0)
+			(at 106.68 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4910,7 +5270,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 119.38 66.04 0)
+			(at 106.68 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4926,7 +5286,7 @@
 		(instances
 			(project "Sonar"
 				(path "/28f9d169-72cd-4bf2-894c-12741d733c98/e638883a-45de-4408-8a94-6c62cbeb9262"
-					(reference "#PWR08")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
