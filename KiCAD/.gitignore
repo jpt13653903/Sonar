@@ -7,3 +7,5 @@ _*
 fp-info-cache
 .history
 .history_trim
+
+*.zip
