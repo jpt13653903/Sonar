@@ -102,7 +102,6 @@
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
 			)
-			(copper_finish "None")
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
