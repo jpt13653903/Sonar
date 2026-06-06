@@ -102,6 +102,7 @@
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
 			)
+			(copper_finish "None")
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
@@ -120,7 +121,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(aux_axis_origin 100 220)
 		(grid_origin 100 220)
 		(pcbplotparams
@@ -3641,7 +3641,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3654,7 +3654,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3680,7 +3680,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5296,7 +5296,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5309,7 +5309,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5335,7 +5335,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34621,7 +34621,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34634,7 +34634,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG1885G1H101JA01D"
+		(property "MPN" "KGM15AR71H101K"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34660,7 +34660,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG1885G1H101JA1D"
+		(property "SPN" "581-KGM15AR71H101KT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43975,7 +43975,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43988,7 +43988,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44014,7 +44014,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46367,7 +46367,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46380,7 +46380,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46406,7 +46406,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55324,7 +55324,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55337,7 +55337,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55363,7 +55363,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60777,7 +60777,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60790,7 +60790,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -60816,7 +60816,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68039,7 +68039,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68052,7 +68052,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68078,7 +68078,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68353,7 +68353,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68366,7 +68366,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -68392,7 +68392,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -74933,7 +74933,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -74946,7 +74946,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -74972,7 +74972,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77337,7 +77337,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77350,7 +77350,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -77376,7 +77376,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81319,7 +81319,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81332,7 +81332,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -81358,7 +81358,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82132,7 +82132,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82145,7 +82145,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -82171,7 +82171,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85599,7 +85599,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85612,7 +85612,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -85638,7 +85638,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -90069,7 +90069,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -90082,7 +90082,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -90108,7 +90108,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -92710,7 +92710,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -92723,7 +92723,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -92749,7 +92749,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93024,7 +93024,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93037,7 +93037,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93063,7 +93063,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93338,7 +93338,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93351,7 +93351,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93377,7 +93377,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -99773,7 +99773,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -99786,7 +99786,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -99812,7 +99812,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -100095,7 +100095,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "221fdd5d-36a1-42f5-a6af-c340628302f3")
+			(uuid "bc39e572-17c9-4d85-a832-eaeb410baf95")
 			(effects
 				(font
 					(size 1 1)
@@ -100108,7 +100108,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6981e416-8005-4264-a8d3-1bdf004ddf58")
+			(uuid "81ba5505-92d8-4bbc-8d8e-140aa94f8cdf")
 			(effects
 				(font
 					(size 1 1)
@@ -100121,7 +100121,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a9ef88c2-e648-4c71-baa5-b56ecc087982")
+			(uuid "e5dab287-a624-4531-ab89-0d59d9d22545")
 			(effects
 				(font
 					(size 1 1)
@@ -100134,7 +100134,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "456ed5a9-8699-49bf-b528-03c3301d36b3")
+			(uuid "7b0080c9-a310-4a35-b7e5-619ecb4b2e7d")
 			(effects
 				(font
 					(size 1 1)
@@ -100147,7 +100147,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99e0e64f-a4fe-47bb-b4fb-389e813bcdf3")
+			(uuid "9266d8d0-b41e-426c-8f5e-9d2366aaa65b")
 			(effects
 				(font
 					(size 1 1)
@@ -100160,7 +100160,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0fcc73f6-5ee3-4787-8c08-8325d8e47dc0")
+			(uuid "c3eae037-1963-49c0-bb71-73f7c182bb38")
 			(effects
 				(font
 					(size 1 1)
@@ -100173,7 +100173,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c78df6e4-b415-4c5c-8659-2725f38fe6d4")
+			(uuid "8c1e9b02-9743-46dc-aca7-143c89f898ab")
 			(effects
 				(font
 					(size 1 1)
@@ -100186,7 +100186,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "387615ae-9dbf-463a-9105-8cc207c4aec4")
+			(uuid "c6835ca9-bbba-4105-8ab8-6d95fa7b8228")
 			(effects
 				(font
 					(size 1 1)
@@ -100284,6 +100284,17 @@
 			)
 			(layer "F.SilkS")
 			(uuid "e8f69c9d-f3e9-4094-a7ac-397df0d08861")
+		)
+		(fp_circle
+			(center -1.9 -1.6)
+			(end -1.8 -1.6)
+			(stroke
+				(width 0.2)
+				(type default)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "d685d9dc-efa9-4570-9400-40603c63fbe9")
 		)
 		(fp_line
 			(start 2.7 -2.69)
@@ -102362,7 +102373,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -102375,7 +102386,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -102401,7 +102412,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -110681,7 +110692,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -110694,7 +110705,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -110720,7 +110731,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -113059,7 +113070,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -113072,7 +113083,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -113098,7 +113109,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -119694,7 +119705,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -119707,7 +119718,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG1885G1H101JA01D"
+		(property "MPN" "KGM15AR71H101K"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -119733,7 +119744,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG1885G1H101JA1D"
+		(property "SPN" "581-KGM15AR71H101KT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -120193,7 +120204,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -120206,7 +120217,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -120232,7 +120243,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -125282,7 +125293,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -125295,7 +125306,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -125321,7 +125332,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -129445,7 +129456,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -129458,7 +129469,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -129484,7 +129495,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -140979,7 +140990,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -140992,7 +141003,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -141018,7 +141029,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -149786,7 +149797,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -149799,7 +149810,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -149825,7 +149836,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -153322,7 +153333,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -153335,7 +153346,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -153361,7 +153372,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -160778,7 +160789,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -160791,7 +160802,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -160817,7 +160828,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -161092,7 +161103,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -161105,7 +161116,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -161131,7 +161142,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -166801,7 +166812,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -166814,7 +166825,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -166840,7 +166851,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -167115,7 +167126,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -167128,7 +167139,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -167154,7 +167165,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -168155,7 +168166,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -168168,7 +168179,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -168194,7 +168205,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -176412,7 +176423,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -176425,7 +176436,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -176451,7 +176462,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -183035,7 +183046,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -183048,7 +183059,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -183074,7 +183085,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -183349,7 +183360,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -183362,7 +183373,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -183388,7 +183399,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -187594,7 +187605,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -187607,7 +187618,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -187633,7 +187644,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -187908,7 +187919,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -187921,7 +187932,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -187947,7 +187958,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -188472,7 +188483,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -188485,7 +188496,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -188511,7 +188522,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -188786,7 +188797,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -188799,7 +188810,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -188825,7 +188836,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -189350,7 +189361,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -189363,7 +189374,7 @@
 				)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -189389,7 +189400,7 @@
 				)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
