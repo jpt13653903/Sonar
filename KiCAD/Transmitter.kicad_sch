@@ -717,204 +717,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Transducers:AS03208MS-3-R"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "LS"
-				(at 5.08 7.366 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "AS03208MS-3-R"
-				(at 5.08 4.826 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SamacSys_Parts:AS03208MS-3-R"
-				(at 26.67 -94.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://www.mouser.co.za/datasheet/3/360/1/specs_AS03208MS_3_R.pdf"
-				(at 26.67 -194.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "Speaker 3W 8 Ohm 85dB 200Hz"
-				(at 42.418 -7.874 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" ""
-				(at 26.67 -394.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Supplier" "Mouser"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "SPN" "665-AS03208MS-3-R"
-				(at 26.67 -494.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer" "PUI Audio"
-				(at 26.67 -694.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "MPN" "AS03208MS-3-R"
-				(at 26.67 -794.92 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "BOM" "Yes"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "AS03208MS-3-R_0_1"
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 12.7 2.54) (xy 12.7 -5.08) (xy 10.16 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "AS03208MS-3-R_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 10.16 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Capacitors:C0603_100p"
 			(pin_numbers
 				(hide yes)
@@ -986,7 +788,7 @@
 					)
 				)
 			)
-			(property "Manufacturer" "Murata"
+			(property "Manufacturer" "KYOCERA AVX"
 				(at 12.7 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -998,7 +800,7 @@
 					(justify left)
 				)
 			)
-			(property "MPN" "GCG1885G1H101JA01D"
+			(property "MPN" "KGM15AR71H101KT"
 				(at 12.7 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1022,7 +824,7 @@
 					(justify left)
 				)
 			)
-			(property "SPN" "81-GCG1885G1H101JA1D"
+			(property "SPN" "581-KGM15AR71H101KT"
 				(at 12.7 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2375,6 +2177,204 @@
 					(at 0 -5.08 90)
 					(length 2.54)
 					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Transducers:AS03208MS-3-R"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "LS"
+				(at 5.08 7.366 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "AS03208MS-3-R"
+				(at 5.08 4.826 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SamacSys_Parts:AS03208MS-3-R"
+				(at 26.67 -94.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "https://www.mouser.co.za/datasheet/3/360/1/specs_AS03208MS_3_R.pdf"
+				(at 26.67 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "Speaker 3W 8 Ohm 85dB 200Hz"
+				(at 42.418 -7.874 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" ""
+				(at 26.67 -394.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Supplier" "Mouser"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "SPN" "665-AS03208MS-3-R"
+				(at 26.67 -494.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer" "PUI Audio"
+				(at 26.67 -694.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "MPN" "AS03208MS-3-R"
+				(at 26.67 -794.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "BOM" "Yes"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "AS03208MS-3-R_0_1"
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 2.54) (xy 12.7 -5.08) (xy 10.16 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "AS03208MS-3-R_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 10.16 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "-"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4359,7 +4359,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 144.78 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4371,7 +4371,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG1885G1H101JA01D"
+		(property "MPN" "KGM15AR71H101K"
 			(at 147.32 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4395,7 +4395,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG1885G1H101JA1D"
+		(property "SPN" "581-KGM15AR71H101KT"
 			(at 152.4 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5065,7 +5065,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 144.78 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5077,7 +5077,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG1885G1H101JA01D"
+		(property "MPN" "KGM15AR71H101K"
 			(at 147.32 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5101,7 +5101,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG1885G1H101JA1D"
+		(property "SPN" "581-KGM15AR71H101KT"
 			(at 152.4 40.64 0)
 			(hide yes)
 			(show_name no)

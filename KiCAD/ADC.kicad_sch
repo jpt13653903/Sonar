@@ -84,7 +84,7 @@
 					)
 				)
 			)
-			(property "Manufacturer" "Murata"
+			(property "Manufacturer" "KYOCERA AVX"
 				(at 12.7 5.715 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -96,7 +96,7 @@
 					(justify left)
 				)
 			)
-			(property "MPN" "GCG188R91H104KA01D "
+			(property "MPN" "06035C104KAT2A"
 				(at 12.7 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -120,7 +120,7 @@
 					(justify left)
 				)
 			)
-			(property "SPN" "81-GCG188R91H104KA1D "
+			(property "SPN" "581-06035C104KAT2A"
 				(at 12.7 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6498,7 +6498,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 76.2 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -6510,7 +6510,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 76.2 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -6534,7 +6534,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 76.2 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -7637,7 +7637,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 101.6 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -7649,7 +7649,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 101.6 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -7673,7 +7673,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 101.6 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -8442,7 +8442,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 139.7 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -8454,7 +8454,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 139.7 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -8478,7 +8478,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 139.7 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -9630,7 +9630,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 101.6 210.185 0)
 			(hide yes)
 			(show_name no)
@@ -9642,7 +9642,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 101.6 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -9666,7 +9666,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 101.6 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -10280,7 +10280,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 317.5 55.245 0)
 			(hide yes)
 			(show_name no)
@@ -10292,7 +10292,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 317.5 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -10316,7 +10316,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 317.5 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10518,7 +10518,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 177.8 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -10530,7 +10530,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 177.8 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -10554,7 +10554,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 177.8 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -10756,7 +10756,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 190.5 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -10768,7 +10768,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 190.5 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -10792,7 +10792,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 190.5 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -11071,7 +11071,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 114.3 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -11083,7 +11083,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 114.3 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -11107,7 +11107,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 114.3 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -11540,7 +11540,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 114.3 210.185 0)
 			(hide yes)
 			(show_name no)
@@ -11552,7 +11552,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 114.3 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -11576,7 +11576,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 114.3 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -12365,7 +12365,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 88.9 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -12377,7 +12377,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 88.9 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -12401,7 +12401,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 88.9 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -13089,7 +13089,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 63.5 210.185 0)
 			(hide yes)
 			(show_name no)
@@ -13101,7 +13101,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 63.5 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -13125,7 +13125,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 63.5 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -13327,7 +13327,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 165.1 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -13339,7 +13339,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 165.1 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -13363,7 +13363,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 165.1 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -13565,7 +13565,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 88.9 210.185 0)
 			(hide yes)
 			(show_name no)
@@ -13577,7 +13577,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 88.9 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -13601,7 +13601,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 88.9 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -14600,7 +14600,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 152.4 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -14612,7 +14612,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 152.4 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -14636,7 +14636,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 152.4 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -14838,7 +14838,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 127 210.185 0)
 			(hide yes)
 			(show_name no)
@@ -14850,7 +14850,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 127 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -14874,7 +14874,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 127 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -15309,7 +15309,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 76.2 210.185 0)
 			(hide yes)
 			(show_name no)
@@ -15321,7 +15321,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 76.2 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -15345,7 +15345,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 76.2 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -15547,7 +15547,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 127 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -15559,7 +15559,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 127 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -15583,7 +15583,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 127 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -16271,7 +16271,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 63.5 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -16283,7 +16283,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 63.5 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -16307,7 +16307,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 63.5 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -17176,7 +17176,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 139.7 55.245 0)
 			(hide yes)
 			(show_name no)
@@ -17188,7 +17188,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 139.7 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -17212,7 +17212,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 139.7 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -17414,7 +17414,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "KYOCERA AVX"
 			(at 203.2 245.745 0)
 			(hide yes)
 			(show_name no)
@@ -17426,7 +17426,7 @@
 				(justify left)
 			)
 		)
-		(property "MPN" "GCG188R91H104KA01D "
+		(property "MPN" "06035C104KAT2A"
 			(at 203.2 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -17450,7 +17450,7 @@
 				(justify left)
 			)
 		)
-		(property "SPN" "81-GCG188R91H104KA1D "
+		(property "SPN" "581-06035C104KAT2A"
 			(at 203.2 251.46 0)
 			(hide yes)
 			(show_name no)
