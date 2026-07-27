@@ -1,6 +1,6 @@
 # Sonar
 
-Project used as a teaching aid for the UCT FPGA course
+Project used as a teaching aid for the [UCT FPGA course](https://github.com/jpt13653903/UCT-FPGA-Course).
 
 ## Overview
 
